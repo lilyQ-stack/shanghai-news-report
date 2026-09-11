@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-10",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-10",
+  "fetched_at_cn": "2026-09-11T09:19:32+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-10",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260910《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:42",
+      "title": "20260910《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:26",
+      "title": "上海市对口支援与合作交流工作会议暨东西部协作工作会议举行 陈吉宁：更加注重激发内生动力 更加注重双向赋能 持续巩固拓展脱贫攻坚成果 助力乡村全面振兴"
+    },
+    {
+      "order": 3,
+      "duration": "02:01",
+      "title": "朱忠明考察外滩大会展览指出 要持续推动技术突破和场景应用创新 加快建设人工智能发展和治理创新高地、具有全球引领性的金融科技中心"
+    },
+    {
+      "order": 4,
+      "duration": "02:47",
+      "title": "汇聚全球智慧 2026外滩大会共议AI新经济 诺奖得主：AI有望使生产率增速每年提高1.08个百分点"
+    },
+    {
+      "order": 5,
+      "duration": "02:38",
+      "title": "今年第十批次土拍本月下旬举行 四幅宅地重磅亮相"
+    },
+    {
+      "order": 6,
+      "duration": "02:13",
+      "title": "记者观察：“临港”赞助了德甲球队？"
+    },
+    {
+      "order": 7,
+      "duration": "02:57",
+      "title": "2026世界顶尖科学家奖揭晓 11位科学家摘奖"
+    },
+    {
+      "order": 8,
+      "duration": "03:05",
+      "title": "第42个教师节 师者如光 黄浦江畔亮灯致敬老师"
+    },
+    {
+      "order": 9,
+      "duration": "02:10",
+      "title": "目标培养百名博士 上海交大教授王如竹获评“全国最美教师”"
+    },
+    {
+      "order": 10,
+      "duration": "00:36",
+      "title": "设置18类指标 声环境功能区夜间达标率力争逾90%"
+    },
+    {
+      "order": 11,
+      "duration": "01:53",
+      "title": "上海口岸今年出入境人数加速突破3000万人次"
+    },
+    {
+      "order": 12,
+      "duration": "01:02",
+      "title": "市体育局：前期经深入沟通 刘翔选择自主择业"
+    },
+    {
+      "order": 13,
+      "duration": "01:58",
+      "title": "在多家餐厅“吃出”橡胶圈？男子涉嫌敲诈勒索被批捕"
+    },
+    {
+      "order": 14,
+      "duration": "00:39",
+      "title": "宝山 两大国际A类水上赛事“十一”期间齐聚 50项活动精彩联动"
+    },
+    {
+      "order": 15,
+      "duration": "00:47",
+      "title": "上海：院校联手开设照护专业 首届新生开启开学第一课"
+    },
+    {
+      "order": 16,
+      "duration": "00:53",
+      "title": "美伊战事在中期选举后“立即结束”？特朗普表态遭质疑"
+    }
+  ]
+}
