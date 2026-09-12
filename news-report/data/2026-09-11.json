@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-11",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-11",
+  "fetched_at_cn": "2026-09-12T08:25:08+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-11",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260911《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 13
+  },
+  "item_count": 13,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:59",
+      "title": "20260911《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:33",
+      "title": "中共上海市委常委会议军会议暨市领导过“军事日”活动举行"
+    },
+    {
+      "order": 3,
+      "duration": "03:47",
+      "title": "陈吉宁调研上海创智学院 要求突出使命驱动展开敏捷行动 加速源头创新突破 深化育人模式创新 营造开放共创生态 加快向全球顶尖人工智能学院进发"
+    },
+    {
+      "order": 4,
+      "duration": "04:34",
+      "title": "陈吉宁调研金山区 指出越是深度转型吃劲阶段越要增强信心 稳步推进传统化工产业转型 下大力气抢抓未来发展机遇 积极稳妥推动城市更新 以高水平安全保障高质量发展"
+    },
+    {
+      "order": 5,
+      "duration": "02:43",
+      "title": "朱忠明调研安全生产工作时指出 要把安全责任细化到各环节各岗位每个人 全面提升安全治理效能"
+    },
+    {
+      "order": 6,
+      "duration": "02:13",
+      "title": "一船一预案 上海开展造修船舶企业消防安全检查"
+    },
+    {
+      "order": 7,
+      "duration": "02:51",
+      "title": "燧原科技登陆科创板 上海“芯”势力强势崛起"
+    },
+    {
+      "order": 8,
+      "duration": "02:16",
+      "title": "首个“上海定制”综合空间落地南京路 擦亮“上海消费”新名片"
+    },
+    {
+      "order": 9,
+      "duration": "02:10",
+      "title": "浦江创新论坛 为基础研究指引方向 首届“浦江科学之问”发布"
+    },
+    {
+      "order": 10,
+      "duration": "00:41",
+      "title": "助力浦东加快转型升级 市政协召开专题通报会"
+    },
+    {
+      "order": 11,
+      "duration": "02:19",
+      "title": "时隔9个月 焕新归来！静安公园明日开园 打造24小时无界生态公园标杆"
+    },
+    {
+      "order": 12,
+      "duration": "01:53",
+      "title": "16天史上最长！长三角铁路中秋国庆假期运输方案出台"
+    },
+    {
+      "order": 13,
+      "duration": "02:23",
+      "title": "世界摩托车越野锦标赛开赛 张雪儿子参赛青少年组别"
+    }
+  ]
+}
