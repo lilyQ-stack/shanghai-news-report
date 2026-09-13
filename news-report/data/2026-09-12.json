@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-12",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-12",
+  "fetched_at_cn": "2026-09-13T08:04:53+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-12",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260912《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 12
+  },
+  "item_count": 12,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:57",
+      "title": "20260912《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:24",
+      "title": "浦江创新论坛：长三角基础研究联合基金重大专项启动 5年总经费将达12.5亿 投向长三角重大战略需求基础研发"
+    },
+    {
+      "order": 3,
+      "duration": "02:20",
+      "title": "浦江创新论坛：让金融精准赋能科创 上海推出“沪科积分2.0”"
+    },
+    {
+      "order": 4,
+      "duration": "03:18",
+      "title": "上海创智学院迎建院两周年 “研创学”一体化生态焕光彩"
+    },
+    {
+      "order": 5,
+      "duration": "03:05",
+      "title": "市委金融办、市金融工作党委 以正确政绩观引领 绘就上海国际金融中心建设实景画"
+    },
+    {
+      "order": 6,
+      "duration": "02:59",
+      "title": "上海住宅租金连涨6个月 科技企业聚集区需求走高"
+    },
+    {
+      "order": 7,
+      "duration": "02:16",
+      "title": "旅游节 51家景点景区限时门票优惠 “游在上海”活动纷呈"
+    },
+    {
+      "order": 8,
+      "duration": "01:24",
+      "title": "旅游节大巡游活动今晚举行"
+    },
+    {
+      "order": 9,
+      "duration": "02:46",
+      "title": "上海大歌剧院：舞剧《天边的红云》合成联排 明晚亮相申厅参与压力测试"
+    },
+    {
+      "order": 10,
+      "duration": "02:24",
+      "title": "中秋临近 南京路买月饼排长队"
+    },
+    {
+      "order": 11,
+      "duration": "02:35",
+      "title": "MXGP上海站 张雪：明年组队参与MXGP组别 5到10年培养一名中国冠军车手"
+    },
+    {
+      "order": 12,
+      "duration": "03:56",
+      "title": "观众中来：记者调查 会员制养老社区配套接连缩水，老人权益该如何保障？"
+    }
+  ]
+}
