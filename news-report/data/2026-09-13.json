@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-13",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-13",
+  "fetched_at_cn": "2026-09-14T08:17:57+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-13",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260913《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:19",
+      "title": "20260913《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:54",
+      "title": "共享创新共塑未来 2026浦江创新论坛在沪开幕"
+    },
+    {
+      "order": 3,
+      "duration": "01:56",
+      "title": "第37届上海旅游节大巡游活动昨晚拉开帷幕 向世界发出“来世赛，游上海”邀约 陈吉宁出席启动活动"
+    },
+    {
+      "order": 4,
+      "duration": "01:01",
+      "title": "朱忠明会见南非科学、技术与创新部部长"
+    },
+    {
+      "order": 5,
+      "duration": "02:33",
+      "title": "点亮申城演绎精彩 上海旅游节大巡游亮相外滩"
+    },
+    {
+      "order": 6,
+      "duration": "01:52",
+      "title": "上海旅游节经典活动季 游上海正当时 景点周末人气旺"
+    },
+    {
+      "order": 7,
+      "duration": "01:04",
+      "title": "申城美好天气持续 体感清凉舒适"
+    },
+    {
+      "order": 8,
+      "duration": "02:59",
+      "title": "长宁 天山公园焕新“更懂你”凯旋之桥赶路也能看风景"
+    },
+    {
+      "order": 9,
+      "duration": "02:43",
+      "title": "新天地商圈里的慈善超市 如何长久“循环”？"
+    },
+    {
+      "order": 10,
+      "duration": "02:30",
+      "title": "2026世界摩托车越野锦标赛上海站收官 赫灵斯、麦克莱伦分别加冕组别冠军"
+    },
+    {
+      "order": 11,
+      "duration": "01:39",
+      "title": "上赛场：CTCC第四站燃擎开跑 赛事安全保障升级"
+    },
+    {
+      "order": 12,
+      "duration": "03:33",
+      "title": "观众中来：记者调查：新房“剪力墙”歪35毫米，内保温一遮就“合格”？"
+    },
+    {
+      "order": 13,
+      "duration": "01:44",
+      "title": "新闻追踪 七旬阿婆美容花销近三百万“永琪”“柔伊”被立案调查"
+    },
+    {
+      "order": 14,
+      "duration": "01:39",
+      "title": "男子驾车途中突发脑梗 民警疾驰40公里拦车救人"
+    },
+    {
+      "order": 15,
+      "duration": "00:32",
+      "title": "印尼客轮失联事故已致六人死亡 仍有上百人失踪"
+    }
+  ]
+}
