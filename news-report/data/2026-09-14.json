@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-14",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-14",
+  "fetched_at_cn": "2026-09-15T08:44:24+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-14",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260914《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:51",
+      "title": "20260914《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:24",
+      "title": "陈吉宁调研市金融工作党委 要求坚决压实属地责任 充分发挥“统”和“联”的优势 加强央地协同和跨区域协作 凝心聚力增强上海国际金融中心竞争力影响力"
+    },
+    {
+      "order": 3,
+      "duration": "01:47",
+      "title": "市政府常务会议：进一步提升虹桥国际开放枢纽辐射能级"
+    },
+    {
+      "order": 4,
+      "duration": "02:13",
+      "title": "倒计时8天！第48届世界技能大赛观众注册今天24时截止"
+    },
+    {
+      "order": 5,
+      "duration": "02:34",
+      "title": "青浦：世赛氛围浓郁 各项保障就绪"
+    },
+    {
+      "order": 6,
+      "duration": "02:07",
+      "title": "上海国际光影节周四启幕 158场活动演绎“上海之光”"
+    },
+    {
+      "order": 7,
+      "duration": "02:22",
+      "title": "上海国际光影节 AI赋能全球艺术家共创 重磅投影秀抢先看"
+    },
+    {
+      "order": 8,
+      "duration": "00:38",
+      "title": "国家卫健委：近4年人口出现负增长 人口大国基本面没变"
+    },
+    {
+      "order": 9,
+      "duration": "00:53",
+      "title": "116种自费疫苗明起可刷医保余额 包含乙肝、流感疫苗等"
+    },
+    {
+      "order": 10,
+      "duration": "02:28",
+      "title": "为国担当勇为尖兵 “上海智造”托举“国之重器”"
+    },
+    {
+      "order": 11,
+      "duration": "02:48",
+      "title": "上海大歌剧院再迎内测 舞剧《天边的红云》亮相申厅"
+    },
+    {
+      "order": 12,
+      "duration": "01:56",
+      "title": "让普通人站上舞台C位 市民歌手争霸赛圆梦“出圈”"
+    },
+    {
+      "order": 13,
+      "duration": "00:59",
+      "title": "申城早晚惬意 明后天好天气持续"
+    },
+    {
+      "order": 14,
+      "duration": "02:08",
+      "title": "父亲无证驾驶撞死路人 喊来儿子顶包最终一同获刑"
+    },
+    {
+      "order": 15,
+      "duration": "02:19",
+      "title": "观众中来：高个男子用餐异物卡喉 医生站凳上急救化险情"
+    },
+    {
+      "order": 16,
+      "duration": "01:47",
+      "title": "沪郊乡村新体验 多元业态火出圈"
+    },
+    {
+      "order": 17,
+      "duration": "00:50",
+      "title": "无视英国反对 特朗普48小时内两提“爱尔兰统一”"
+    }
+  ]
+}
