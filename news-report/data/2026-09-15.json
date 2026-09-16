@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-15",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-15",
+  "fetched_at_cn": "2026-09-16T08:34:38+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-15",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260915《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:29",
+      "title": "20260915《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:40",
+      "title": "8月国民经济运行平稳发展向新向优"
+    },
+    {
+      "order": 3,
+      "duration": "03:24",
+      "title": "七连涨！8月上海二手房价格环比上涨0.3%"
+    },
+    {
+      "order": 4,
+      "duration": "02:39",
+      "title": "第48届世界技能大赛筹备稳步推进 赛场设施明起调试"
+    },
+    {
+      "order": 5,
+      "duration": "00:30",
+      "title": "第48届世界技能大赛 倒计时7天！观众注册截止时间延至9月17日24点"
+    },
+    {
+      "order": 6,
+      "duration": "02:45",
+      "title": "上海医保新政落地 个人账户历年结余可支付非免疫规划疫苗费用"
+    },
+    {
+      "order": 7,
+      "duration": "01:56",
+      "title": "国家疾控局：农村地区“一老一小”可免费接种流感疫苗 上海细化实施方案 疫苗将陆续配送到位"
+    },
+    {
+      "order": 8,
+      "duration": "02:31",
+      "title": "第三届上海国际光影节9月17日启幕 黄浦主会场试亮灯"
+    },
+    {
+      "order": 9,
+      "duration": "02:41",
+      "title": "覆盖所有热门项目最低票价40元 艺术节首轮半价票开售"
+    },
+    {
+      "order": 10,
+      "duration": "01:53",
+      "title": "奉浦大桥：31岁老桥旁“克隆”出新桥 不封路扩容年底建成"
+    },
+    {
+      "order": 11,
+      "duration": "01:38",
+      "title": "汇聚14国艺术作品！上海静安国际雕塑展9月启幕"
+    },
+    {
+      "order": 12,
+      "duration": "02:22",
+      "title": "上海旅游节经典活动季 “加更”三日全城狂欢 表演方队亮相东方明珠"
+    },
+    {
+      "order": 13,
+      "duration": "02:15",
+      "title": "65岁大妈AI换脸成90后美女 网恋5个月骗走男子17万元"
+    },
+    {
+      "order": 14,
+      "duration": "01:25",
+      "title": "美国：黄仁勋台上接听特朗普来电 开免提讨论AI发展"
+    },
+    {
+      "order": 15,
+      "duration": "01:22",
+      "title": "美国：法官阻止收紧国际学生等逗留期限新规生效"
+    }
+  ]
+}
