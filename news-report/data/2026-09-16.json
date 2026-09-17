@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-16",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-16",
+  "fetched_at_cn": "2026-09-17T08:42:30+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-16",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260916《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:12",
+      "title": "20260916《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:08",
+      "title": "上海星，首次在东海海域发射"
+    },
+    {
+      "order": 3,
+      "duration": "02:04",
+      "title": "榫卯嵌合匠心卓越 第48届世界技能大赛奖牌亮相"
+    },
+    {
+      "order": 4,
+      "duration": "01:02",
+      "title": "国台办：民进党当局无理刁难 阻挠上海台北城市论坛筹办工作"
+    },
+    {
+      "order": 5,
+      "duration": "01:53",
+      "title": "大学生占比超96% 上海新兵启程奔赴军营"
+    },
+    {
+      "order": 6,
+      "duration": "03:15",
+      "title": "上海中心城区将新增一条东西向交通大动脉 漕宝路快速路明年下半年具备通车条件"
+    },
+    {
+      "order": 7,
+      "duration": "04:56",
+      "title": "宝山探索破解“老养残”困局 九旬老人与两个智力残疾儿子，如何住进养老院？"
+    },
+    {
+      "order": 8,
+      "duration": "00:44",
+      "title": "市十六届人大常委会第34次会议今起召开"
+    },
+    {
+      "order": 9,
+      "duration": "00:41",
+      "title": "市领导会见安哥拉国民议会议长"
+    },
+    {
+      "order": 10,
+      "duration": "00:47",
+      "title": "南京博物院受赠文物管理问题最新通报 原院长徐湖平获刑3年 并处罚金20万元"
+    },
+    {
+      "order": 11,
+      "duration": "00:49",
+      "title": "香港11项“组合拳”鼓励生育 2万港元新生婴儿奖励金延续3年 二胎及以上加码至3万"
+    },
+    {
+      "order": 12,
+      "duration": "02:13",
+      "title": "中国首个且唯一！“诺和盈”获批代谢相关脂肪性肝炎适应症"
+    },
+    {
+      "order": 13,
+      "duration": "01:12",
+      "title": "遭遇临检欲变道逃逸 醉驾司机被依法刑拘"
+    },
+    {
+      "order": 14,
+      "duration": "02:17",
+      "title": "“女友”相约旅游突然失联 上海警方侦破婚恋诈骗新套路"
+    },
+    {
+      "order": 15,
+      "duration": "02:06",
+      "title": "国内最深水务机械法施工盾构井始发 排水升级版“主动脉”有序推进"
+    },
+    {
+      "order": 16,
+      "duration": "02:41",
+      "title": "“闪亮·上海”（静安）2026国际光影艺术大赛收官 汇集全球光影创意 苏河畔石库门将披新装"
+    },
+    {
+      "order": 17,
+      "duration": "00:24",
+      "title": "伊朗：公布“阿尔加亚”号起火视频"
+    },
+    {
+      "order": 18,
+      "duration": "00:18",
+      "title": "多因素刺激国际油价大幅上涨"
+    }
+  ]
+}
