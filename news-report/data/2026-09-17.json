@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-17",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-17",
+  "fetched_at_cn": "2026-09-18T08:30:56+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-17",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260917《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 20
+  },
+  "item_count": 20,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:14",
+      "title": "20260917《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:23",
+      "title": "李强将出席第48届世界技能大赛开幕式及相关活动"
+    },
+    {
+      "order": 3,
+      "duration": "01:26",
+      "title": "陈吉宁会见亚洲企业领袖协会会员代表 欢迎持续加大在沪投资布局力度 把更多面向全球市场、走在行业前沿的新业务新研发新技术新服务落地上海"
+    },
+    {
+      "order": 4,
+      "duration": "00:59",
+      "title": "陈吉宁会见澳大利亚必和必拓集团负责人"
+    },
+    {
+      "order": 5,
+      "duration": "02:21",
+      "title": "第三届上海国际光影节开幕在即 光影为百年上海音乐厅披\"新衣\""
+    },
+    {
+      "order": 6,
+      "duration": "02:36",
+      "title": "第48届世界技能大赛开赛在即 近350名外国参赛人员今抵沪"
+    },
+    {
+      "order": 7,
+      "duration": "00:31",
+      "title": "第48届世界技能大赛倒计时5天 维护低空空域安全 市政府发布通告"
+    },
+    {
+      "order": 8,
+      "duration": "00:51",
+      "title": "广电总局：机顶盒功能将以软件形态内置于电视机"
+    },
+    {
+      "order": 9,
+      "duration": "03:20",
+      "title": "全票通过、25个基点 美联储三年多来首次加息"
+    },
+    {
+      "order": 10,
+      "duration": "02:06",
+      "title": "聚焦学前教育与托育服务 市人大常委会开展专题询问"
+    },
+    {
+      "order": 11,
+      "duration": "00:32",
+      "title": "回归创作初心深化改革 上海电影工作会举行"
+    },
+    {
+      "order": 12,
+      "duration": "00:32",
+      "title": "上海国际生物医药产业周开幕 AI驱动打造全球健康共同体"
+    },
+    {
+      "order": 13,
+      "duration": "01:29",
+      "title": "接电话会被采集声纹？上海警方：确有可能尚无案例"
+    },
+    {
+      "order": 14,
+      "duration": "02:05",
+      "title": "AI伪造“车主委托抵押”视频 男子租车诈骗23万元获刑"
+    },
+    {
+      "order": 15,
+      "duration": "02:13",
+      "title": "观众中来：暖心面馆快闪店 让深夜奔跑的人歇一歇"
+    },
+    {
+      "order": 16,
+      "duration": "01:56",
+      "title": "服务宝山站集散 江杨北路提升工程开工"
+    },
+    {
+      "order": 17,
+      "duration": "01:28",
+      "title": "打造设计前沿风向标 2026世界设计之都大会即将启幕"
+    },
+    {
+      "order": 18,
+      "duration": "01:48",
+      "title": "“告别”方向盘 特斯拉量产赛博无人驾驶车在沪首秀"
+    },
+    {
+      "order": 19,
+      "duration": "01:19",
+      "title": "日本：高市早苗改组内阁 政坛右倾化加速"
+    },
+    {
+      "order": 20,
+      "duration": "00:45",
+      "title": "杜特尔特首次公开出庭"
+    }
+  ]
+}
