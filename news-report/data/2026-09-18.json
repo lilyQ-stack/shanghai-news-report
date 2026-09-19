@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-18",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-18",
+  "fetched_at_cn": "2026-09-19T08:26:31+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-18",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260918《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:58",
+      "title": "20260918《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:56",
+      "title": "住建部：我国房地产进入存量时代 今年前8个月 二手房交易占比达52%"
+    },
+    {
+      "order": 3,
+      "duration": "01:45",
+      "title": "2026“在上海·遇未来 跨国企业上海行”推介会举行 热忱欢迎跨国企业来沪投资兴业深耕发展"
+    },
+    {
+      "order": 4,
+      "duration": "01:40",
+      "title": "第三届上海国际光影节开幕 打造全城联动、全民共享、全息沉浸的光影嘉年华"
+    },
+    {
+      "order": 5,
+      "duration": "03:10",
+      "title": "第48届世界技能大赛 “四叶草”南广场披新装 奏响世赛迎宾曲"
+    },
+    {
+      "order": 6,
+      "duration": "01:35",
+      "title": "3881名！第48届世赛志愿者整装待发"
+    },
+    {
+      "order": 7,
+      "duration": "02:51",
+      "title": "第48届世界技能大赛倒计时4天 照护要懂人花艺要出新 探访上海选手备战现场"
+    },
+    {
+      "order": 8,
+      "duration": "00:44",
+      "title": "上海外贸前8个月同比增长17% “AI引擎”全速运转"
+    },
+    {
+      "order": 9,
+      "duration": "03:38",
+      "title": "上海：新增“物治委”相关制度规范 补齐物业治理“关键一环”"
+    },
+    {
+      "order": 10,
+      "duration": "02:23",
+      "title": "又一款“上海产”1类新药获批上市 惠及难治性痛风患者"
+    },
+    {
+      "order": 11,
+      "duration": "01:31",
+      "title": "勿忘九一八！ 上海淞沪抗战纪念馆举行铭记活动"
+    },
+    {
+      "order": 12,
+      "duration": "02:51",
+      "title": "上海国际光影节璀璨开幕 主会场延中绿地人气火爆"
+    },
+    {
+      "order": 13,
+      "duration": "02:27",
+      "title": "品牌资产2110万元易主 钟薛高重启四季度产品上市"
+    },
+    {
+      "order": 14,
+      "duration": "02:42",
+      "title": "观众中来：新闻追踪 宝山首份意定监护协议落地 九旬老伯携俩智残儿子入住敬老院"
+    },
+    {
+      "order": 15,
+      "duration": "02:19",
+      "title": "为赖房费谎称金饰被盗 夫妇报假警败露受罚"
+    }
+  ]
+}
