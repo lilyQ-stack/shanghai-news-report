@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-19",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-19",
+  "fetched_at_cn": "2026-09-20T08:11:32+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-19",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260919《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "34:03",
+      "title": "20260919《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:09",
+      "title": "中共上海市委常委会举行会议 传达学习习近平总书记在第四十二个教师节到来之际作出的重要指示精神"
+    },
+    {
+      "order": 3,
+      "duration": "00:39",
+      "title": "第二十届亚运会开幕 上海拳击女将吴愉担任中国代表团旗手"
+    },
+    {
+      "order": 4,
+      "duration": "01:20",
+      "title": "世界技能大赛：外国参赛代表团集中抵沪"
+    },
+    {
+      "order": 5,
+      "duration": "02:30",
+      "title": "第48届世界技能大赛无人机系统 会飞还不够！做工程师、程序员、飞手“全能选手”"
+    },
+    {
+      "order": 6,
+      "duration": "03:11",
+      "title": "上海试鸣防空警报 新技术新手段应用高空救援"
+    },
+    {
+      "order": 7,
+      "duration": "03:06",
+      "title": "用舞步再现长征壮歌 重构版舞剧《天边的红云》首演"
+    },
+    {
+      "order": 8,
+      "duration": "03:12",
+      "title": "从“沿河可走”迈向“滨水生活” 苏州河“毛细血管”工程提速"
+    },
+    {
+      "order": 9,
+      "duration": "02:33",
+      "title": "沉浸式科技消费新燃点 人形机器人格斗首秀宝山"
+    },
+    {
+      "order": 10,
+      "duration": "00:34",
+      "title": "上海知联会成立40周年座谈会举行"
+    },
+    {
+      "order": 11,
+      "duration": "01:08",
+      "title": "乘客翻越屏蔽门致列车延误 轨交警方予以行政处罚"
+    },
+    {
+      "order": 12,
+      "duration": "02:29",
+      "title": "T3平台又现“马甲车” 涉事司机及车辆已被查获"
+    },
+    {
+      "order": 13,
+      "duration": "01:58",
+      "title": "佳士得多件拍品在沪预展 元青花八方罐存世罕见"
+    },
+    {
+      "order": 14,
+      "duration": "02:30",
+      "title": "观众中来：台风吹落屋顶瓦片一月有余 维修何时启动？属地：结合美丽家园改造工程 11月启动修缮"
+    },
+    {
+      "order": 15,
+      "duration": "01:54",
+      "title": "上海旅游节经典活动季 玫瑰婚典浪漫举行 26对新人情定南京东路"
+    }
+  ]
+}
