@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-20",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-20",
+  "fetched_at_cn": "2026-09-21T08:19:57+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-20",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260920《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 14
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:33",
+      "title": "20260920《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:47",
+      "title": "陈吉宁主持市委中心组学习会 听取专题辅导报告 要求更加准确把握超大城市生态保护和环境治理规律 加快建设美丽上海 打造人与自然和谐共生现代化国际大都市"
+    },
+    {
+      "order": 3,
+      "duration": "02:25",
+      "title": "记者观察 跨国企业来张江找新药！“上海方案”支持药企融入全球创新链"
+    },
+    {
+      "order": 4,
+      "duration": "03:36",
+      "title": "上海：19999元起！全球首个个人机器人正式发售"
+    },
+    {
+      "order": 5,
+      "duration": "02:42",
+      "title": "街头艺人全城演出 第十二届上海街艺展演启幕"
+    },
+    {
+      "order": 6,
+      "duration": "02:30",
+      "title": "共赴光影之约 第四届“闪亮·上海”静安国际光影展开幕"
+    },
+    {
+      "order": 7,
+      "duration": "02:09",
+      "title": "第三届上海国际光影节浦东分会场即将启幕 光影艺术走进滨江商圈 前滩生活季同步举行"
+    },
+    {
+      "order": 8,
+      "duration": "02:51",
+      "title": "上海首个非遗主题大型活动启幕 戏曲与电音共同激荡！豫园九曲桥首搭水上舞台"
+    },
+    {
+      "order": 9,
+      "duration": "00:57",
+      "title": "上海：下周多云为主 局部地区有短时阵雨"
+    },
+    {
+      "order": 10,
+      "duration": "01:51",
+      "title": "中秋备货供需两旺 市场直供便民惠民"
+    },
+    {
+      "order": 11,
+      "duration": "02:11",
+      "title": "上海：首设“920出租车驾驶员关爱日” 推动巡网融合提质升级"
+    },
+    {
+      "order": 12,
+      "duration": "02:40",
+      "title": "引诱“摩友”酒驾后制造交通事故 9人敲诈勒索团伙落网"
+    },
+    {
+      "order": 13,
+      "duration": "02:33",
+      "title": "美国对中东发布新的安全警报：军事冲突有可能“迅速升级”"
+    },
+    {
+      "order": 14,
+      "duration": "00:38",
+      "title": "美国：特朗普称将组建一支“人工智能部队”"
+    }
+  ]
+}
