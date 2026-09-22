@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-21",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-21",
+  "fetched_at_cn": "2026-09-22T08:57:28+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-21",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260921《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 19
+  },
+  "item_count": 19,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:39",
+      "title": "20260921《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:39",
+      "title": "习近平主持召开中共中央政治局会议 决定二十届五中全会10月26日至29日在北京召开"
+    },
+    {
+      "order": 3,
+      "duration": "00:34",
+      "title": "习近平将对美国进行国事访问"
+    },
+    {
+      "order": 4,
+      "duration": "01:59",
+      "title": "上海市政府常务会议传达学习习近平总书记关于发展先进制造业的重要指示精神和全国先进制造业大会部署"
+    },
+    {
+      "order": 5,
+      "duration": "02:55",
+      "title": "第48届世赛明晚开幕 场馆准备就绪选手全力备战"
+    },
+    {
+      "order": 6,
+      "duration": "03:02",
+      "title": "世界技能大赛开幕在即 欧洲选手冲刺备战"
+    },
+    {
+      "order": 7,
+      "duration": "02:45",
+      "title": "第48届世赛开幕式明晚举行 亮点纷呈抢先看"
+    },
+    {
+      "order": 8,
+      "duration": "00:52",
+      "title": "国展中心周边路段采取最小范围、最短时间管控"
+    },
+    {
+      "order": 9,
+      "duration": "01:21",
+      "title": "张又侠、刘振立严重违纪违法被开除党籍军籍"
+    },
+    {
+      "order": 10,
+      "duration": "02:38",
+      "title": "上海九批次土拍收官 三宗地揽金129亿元"
+    },
+    {
+      "order": 11,
+      "duration": "02:36",
+      "title": "登上“全球最酷街区”榜单 上海长宁“酷”在哪儿？"
+    },
+    {
+      "order": 12,
+      "duration": "00:40",
+      "title": "市领导会见澳门特别行政区立法会主席"
+    },
+    {
+      "order": 13,
+      "duration": "00:45",
+      "title": "助力为基层减负工作取得更大成效 市政协举行专题通报会"
+    },
+    {
+      "order": 14,
+      "duration": "02:03",
+      "title": "全市首个综合老年认知健康支持中心在徐汇落地"
+    },
+    {
+      "order": 15,
+      "duration": "02:22",
+      "title": "隐瞒交通事故谎称摔伤 伤者家属和非法中介“骗保”齐落法网"
+    },
+    {
+      "order": 16,
+      "duration": "01:28",
+      "title": "泡面桶里惊现10万元 沪豫警方紧急截停"
+    },
+    {
+      "order": 17,
+      "duration": "02:17",
+      "title": "青浦奥莱二期开门迎客 打造微度假消费目的地"
+    },
+    {
+      "order": 18,
+      "duration": "01:34",
+      "title": "东方明珠：巨型冒险船“登陆”嘉年华巡展吸睛"
+    },
+    {
+      "order": 19,
+      "duration": "00:48",
+      "title": "德国：得票率暴跌 基民盟首次无缘进入州一级议会"
+    }
+  ]
+}
