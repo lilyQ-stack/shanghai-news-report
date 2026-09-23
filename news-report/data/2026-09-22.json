@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-22",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-22",
+  "fetched_at_cn": "2026-09-23T08:46:03+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-22",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260922《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 14
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:24",
+      "title": "20260922《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "07:59",
+      "title": "技能之光，从上海照亮世界"
+    },
+    {
+      "order": 3,
+      "duration": "01:57",
+      "title": "世赛“一校一队”活动举行 共筑全球技能交流新桥梁"
+    },
+    {
+      "order": 4,
+      "duration": "01:52",
+      "title": "第48届世界技能大赛 从餐桌到课堂 中法技能交流在上海延伸"
+    },
+    {
+      "order": 5,
+      "duration": "00:42",
+      "title": "世赛特许商品快闪店亮相徐汇新六百YOUNG"
+    },
+    {
+      "order": 6,
+      "duration": "02:51",
+      "title": "日租30元、月租900元！上海首个“家政服务员之家”揭牌投用"
+    },
+    {
+      "order": 7,
+      "duration": "01:56",
+      "title": "沪宁合高铁、沪通铁路二期箱梁完工 明年底开通运营"
+    },
+    {
+      "order": 8,
+      "duration": "00:40",
+      "title": "聚焦工业具身智能创新 九三学社中央科学座谈会在沪召开"
+    },
+    {
+      "order": 9,
+      "duration": "02:49",
+      "title": "补齐自动驾驶法律空白 《道交法》修订草案在沪展开立法征询"
+    },
+    {
+      "order": 10,
+      "duration": "02:43",
+      "title": "暖心守护不缺位！走失阿尔兹海默症老人顺利回家"
+    },
+    {
+      "order": 11,
+      "duration": "02:53",
+      "title": "桨声再起山路更新 长风公园国庆焕新开放"
+    },
+    {
+      "order": 12,
+      "duration": "02:29",
+      "title": "江海21良种“走南闯北”上海大闸蟹又迎丰收"
+    },
+    {
+      "order": 13,
+      "duration": "01:30",
+      "title": "进一步提升足球技术 上海足球小将赴法训赛"
+    },
+    {
+      "order": 14,
+      "duration": "00:31",
+      "title": "丹麦及格陵兰岛将和美国签署安全协议"
+    }
+  ]
+}
