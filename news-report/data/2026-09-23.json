@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-23",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-23",
+  "fetched_at_cn": "2026-09-24T08:38:00+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-23",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260923《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:57",
+      "title": "20260923《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:19",
+      "title": "习近平离京对美国进行国事访问"
+    },
+    {
+      "order": 3,
+      "duration": "00:40",
+      "title": "习近平向第48届世界技能大赛致贺信"
+    },
+    {
+      "order": 4,
+      "duration": "04:06",
+      "title": "第48届世界技能大赛在上海隆重开幕"
+    },
+    {
+      "order": 5,
+      "duration": "02:29",
+      "title": "李强在上海调研"
+    },
+    {
+      "order": 6,
+      "duration": "02:01",
+      "title": "2026上海赛艇公开赛、世界赛艇联合会上海冲刺赛 开赛仪式举行 朱忠明启动赛事"
+    },
+    {
+      "order": 7,
+      "duration": "03:11",
+      "title": "世界技能大赛正式开赛 上海选手参与8个项目角逐"
+    },
+    {
+      "order": 8,
+      "duration": "03:08",
+      "title": "第48届世界技能大赛 制造与工业技术组：展现最“硬”技能 中国代表团全力冲金"
+    },
+    {
+      "order": 9,
+      "duration": "00:47",
+      "title": "一馆览百技 世界技能博览会同步启幕"
+    },
+    {
+      "order": 10,
+      "duration": "04:59",
+      "title": "第48届世界技能大赛开幕式：以匠心为笔，上海向世界交卷 上海广播电视台创作团队多工种配合 完美呈现"
+    },
+    {
+      "order": 11,
+      "duration": "01:32",
+      "title": "秋分至 凉意显"
+    },
+    {
+      "order": 12,
+      "duration": "01:13",
+      "title": "上海：“双节”将推200场促消费活动 各区陆续上线消费券"
+    },
+    {
+      "order": 13,
+      "duration": "01:15",
+      "title": "小洋山北作业区：核心装卸设备开始安装 西一区年底开港"
+    },
+    {
+      "order": 14,
+      "duration": "00:35",
+      "title": "上海：团结归侨侨眷海外侨胞为“五个中心”建设凝心聚力"
+    },
+    {
+      "order": 15,
+      "duration": "00:45",
+      "title": "教育部 未来4年“双一流”高校本科招生数将扩容7.6万人"
+    },
+    {
+      "order": 16,
+      "duration": "01:56",
+      "title": "上海静安国际雕塑展 14国艺术家携作品亮相 近七成专为“上海定制”"
+    },
+    {
+      "order": 17,
+      "duration": "01:30",
+      "title": "第81届联大一般性辩论开幕"
+    }
+  ]
+}
