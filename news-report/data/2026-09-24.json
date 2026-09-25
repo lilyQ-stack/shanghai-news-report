@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-24",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-24",
+  "fetched_at_cn": "2026-09-25T08:38:13+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-24",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260924《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:54",
+      "title": "20260924《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:38",
+      "title": "习近平抵达华盛顿对美国进行国事访问"
+    },
+    {
+      "order": 3,
+      "duration": "01:56",
+      "title": "李强出席2026年世界技能大会开幕式并致辞"
+    },
+    {
+      "order": 4,
+      "duration": "03:40",
+      "title": "国产客机“出考题”中国装备亮相世赛考场"
+    },
+    {
+      "order": 5,
+      "duration": "02:27",
+      "title": "世赛博览会可看可玩 为各国职业教育搭建合作桥梁"
+    },
+    {
+      "order": 6,
+      "duration": "01:40",
+      "title": "世赛迎首个观赛高峰 入场客流逾12万人次"
+    },
+    {
+      "order": 7,
+      "duration": "02:00",
+      "title": "感受匠心风采 世界技能博物馆迎参观热潮"
+    },
+    {
+      "order": 8,
+      "duration": "02:20",
+      "title": "打造视听新标杆！2026国际视听艺术嘉年华亮相静安"
+    },
+    {
+      "order": 9,
+      "duration": "00:33",
+      "title": "上海成品油价明天零点起上调"
+    },
+    {
+      "order": 10,
+      "duration": "02:20",
+      "title": "表演艺术家游本昌逝世 享年93岁"
+    },
+    {
+      "order": 11,
+      "duration": "01:23",
+      "title": "上海：中秋云系较多有阵雨 圆月时隐时现或可赏"
+    },
+    {
+      "order": 12,
+      "duration": "02:23",
+      "title": "第三届上海国际光影节普陀分会场启幕"
+    },
+    {
+      "order": 13,
+      "duration": "01:47",
+      "title": "聚焦500米冲刺！上海赛艇公开赛拉开苏河文体盛宴"
+    },
+    {
+      "order": 14,
+      "duration": "00:36",
+      "title": "音乐剧《剧院魅影》四十周年上海告别季 莱明献演！9月29日亮相上海大剧院"
+    },
+    {
+      "order": 15,
+      "duration": "01:39",
+      "title": "花海烂漫彩蝶舞 佳节游园正当时"
+    },
+    {
+      "order": 16,
+      "duration": "02:04",
+      "title": "联大一般性辩论：伊朗总统称本国为“恐怖主义”受害者"
+    },
+    {
+      "order": 17,
+      "duration": "00:26",
+      "title": "英国向中国返还12件流失文物艺术品"
+    }
+  ]
+}
