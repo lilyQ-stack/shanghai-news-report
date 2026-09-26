@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-25",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-25",
+  "fetched_at_cn": "2026-09-26T08:42:49+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-25",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260925《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:55",
+      "title": "20260925《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:58",
+      "title": "习近平出席美国总统在白宫举行的欢迎仪式"
+    },
+    {
+      "order": 3,
+      "duration": "01:44",
+      "title": "2026年世界技能大会上海技能发展主题平行会举行 建设世界技能创新中心 促进世界技能运动长期可持续发展"
+    },
+    {
+      "order": 4,
+      "duration": "02:39",
+      "title": "世赛寻标杆车间育工匠 上海构建全链条技能人才培养体系"
+    },
+    {
+      "order": 5,
+      "duration": "03:42",
+      "title": "记者观察 世赛背后的这支“梦之队”，为何让世界技能组织“难以置信”？"
+    },
+    {
+      "order": 6,
+      "duration": "01:56",
+      "title": "四天“手搓”游戏角色 AI时代为何还在比“手艺”？"
+    },
+    {
+      "order": 7,
+      "duration": "02:36",
+      "title": "第48届世界技能大赛 小长假首日迎大客流 青少年群体观赛热情高"
+    },
+    {
+      "order": 8,
+      "duration": "01:46",
+      "title": "消防：加强巡逻“一键派警” 全力保障大赛安全"
+    },
+    {
+      "order": 9,
+      "duration": "01:54",
+      "title": "市场“新”意满满 申城中秋消费活力足"
+    },
+    {
+      "order": 10,
+      "duration": "02:15",
+      "title": "当世赛遇上中秋：“四叶草”里的别样团圆"
+    },
+    {
+      "order": 11,
+      "duration": "01:24",
+      "title": "老伯返沪邮轮上突发重病 吴淞口上演海陆生命救援"
+    },
+    {
+      "order": 12,
+      "duration": "01:36",
+      "title": "向战蓄能！直击武警后装保障比武现场"
+    },
+    {
+      "order": 13,
+      "duration": "01:50",
+      "title": "黄浦江畔国潮涌 北外滩嘉年华热力启幕"
+    },
+    {
+      "order": 14,
+      "duration": "01:35",
+      "title": "上海国际光影节 闵行分会场：3.5公里光影连廊联动商圈客流"
+    },
+    {
+      "order": 15,
+      "duration": "01:28",
+      "title": "内塔尼亚胡在联大演讲 会场内外抗议不断"
+    }
+  ]
+}
