@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-26",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-26",
+  "fetched_at_cn": "2026-09-27T08:44:00+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-26",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260926《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:31",
+      "title": "20260926《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:58",
+      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙"
+    },
+    {
+      "order": 3,
+      "duration": "00:54",
+      "title": "中美达成八点成果共识 共同构建基于尊重、公平、对等的中美建设性战略稳定关系"
+    },
+    {
+      "order": 4,
+      "duration": "02:24",
+      "title": "五大游戏IP跨界古典交响 国际视听艺术嘉年华燃动中秋夜"
+    },
+    {
+      "order": 5,
+      "duration": "03:00",
+      "title": "中式碳水节氛围浓 周边商圈人气高"
+    },
+    {
+      "order": 6,
+      "duration": "01:39",
+      "title": "中秋小长假第二天 申城接待游客：主要景区景点超117万人次 开放式文旅区域近180万人次"
+    },
+    {
+      "order": 7,
+      "duration": "02:50",
+      "title": "第48届世界技能大赛迎来最后一个比赛日 各国选手交付作品 东方气韵惊艳赛场"
+    },
+    {
+      "order": 8,
+      "duration": "02:12",
+      "title": "世赛新增轨道车辆技术赛项 中国“00后”女将提前完赛有望夺冠"
+    },
+    {
+      "order": 9,
+      "duration": "02:21",
+      "title": "新闻特写 跨越山海，这些国际志愿者为何而来？"
+    },
+    {
+      "order": 10,
+      "duration": "01:55",
+      "title": "深度参与办赛 申城院校收获宝贵育人经验"
+    },
+    {
+      "order": 11,
+      "duration": "02:20",
+      "title": "“沪航者”，精准助力企业“走出去”"
+    },
+    {
+      "order": 12,
+      "duration": "03:14",
+      "title": "新闻特写 巨鹿路上的“洋面孔”：我在上海开小店"
+    },
+    {
+      "order": 13,
+      "duration": "02:13",
+      "title": "“世界赛艇联合会上海冲刺赛”首秀 8支顶尖队伍竞速苏州河"
+    },
+    {
+      "order": 14,
+      "duration": "01:33",
+      "title": "世界设计之都大会：主展览开放 AI设计点亮生活"
+    },
+    {
+      "order": 15,
+      "duration": "00:58",
+      "title": "伊朗：向美方提出七日内重开霍尔木兹海峡计划"
+    },
+    {
+      "order": 16,
+      "duration": "00:41",
+      "title": "乌克兰多地遭袭 泽连斯基呼吁美欧落实对俄制裁"
+    },
+    {
+      "order": 17,
+      "duration": "00:34",
+      "title": "全球海平面上升速度加快 古特雷斯呼吁国际社会采取行动"
+    }
+  ]
+}
