@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-27",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-27",
+  "fetched_at_cn": "2026-09-28T08:57:27+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-27",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260927《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "34:10",
+      "title": "20260927《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:43",
+      "title": "第48届世界技能大赛 赛程圆满收官 闭幕式今晚举行"
+    },
+    {
+      "order": 3,
+      "duration": "01:42",
+      "title": "世界技能组织主席：期待中国职业教育经验惠及更多国家"
+    },
+    {
+      "order": 4,
+      "duration": "01:51",
+      "title": "世赛也是“招聘场”技能人才受青睐"
+    },
+    {
+      "order": 5,
+      "duration": "02:42",
+      "title": "走出赛场，技能仍在发光"
+    },
+    {
+      "order": 6,
+      "duration": "03:21",
+      "title": "第48届世界技能大赛今晚闭幕"
+    },
+    {
+      "order": 7,
+      "duration": "02:15",
+      "title": "新闻特写：外媒记者眼中的世界技能大赛"
+    },
+    {
+      "order": 8,
+      "duration": "01:50",
+      "title": "多重因素叠加 申城车市迎来“金九银十”"
+    },
+    {
+      "order": 9,
+      "duration": "02:28",
+      "title": "上海：中秋假期接待游客717.04万人次"
+    },
+    {
+      "order": 10,
+      "duration": "01:10",
+      "title": "上海：下周初阴雨持续 国庆前后凉风送爽"
+    },
+    {
+      "order": 11,
+      "duration": "02:06",
+      "title": "“中国建造”出海！全球最大打桩船奔赴巴西建跨海大桥"
+    },
+    {
+      "order": 12,
+      "duration": "01:54",
+      "title": "大熊猫“平平”“福双”启程前往美国 开启十年旅居生活"
+    },
+    {
+      "order": 13,
+      "duration": "03:14",
+      "title": "在大学图书馆，可以度过怎样的时光？"
+    },
+    {
+      "order": 14,
+      "duration": "01:31",
+      "title": "霍尔木兹海峡博弈持续 伊朗称不会在既定条件上向美国让步"
+    },
+    {
+      "order": 15,
+      "duration": "01:37",
+      "title": "泰国：暴雨引发洪灾 曼谷市长宣布全市为洪水灾区"
+    }
+  ]
+}
