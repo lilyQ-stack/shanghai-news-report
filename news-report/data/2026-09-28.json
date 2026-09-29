@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-28",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-28",
+  "fetched_at_cn": "2026-09-29T10:06:04+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-28",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260928《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:40",
+      "title": "20260928《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:05",
+      "title": "盛会缔结友谊 技能演绎精彩 第48届世界技能大赛在上海圆满闭幕"
+    },
+    {
+      "order": 3,
+      "duration": "05:24",
+      "title": "上海市进一步深化国资国企改革工作会议举行 陈吉宁：锚定打造世界一流企业目标 聚力改革攻坚 在服务国家战略、推动产业升级、实现创新突破上展现新作为"
+    },
+    {
+      "order": 4,
+      "duration": "01:58",
+      "title": "2026世界设计之都大会在沪开幕 朱忠明：以文化涵养设计品牌 以科技赋能设计产业 以开放汇聚设计资源"
+    },
+    {
+      "order": 5,
+      "duration": "01:51",
+      "title": "第48届世界技能大赛 上海选手表现优异 斩获6金3银！"
+    },
+    {
+      "order": 6,
+      "duration": "02:01",
+      "title": "唱起家乡歌拥抱新朋友 世赛选手派对话别"
+    },
+    {
+      "order": 7,
+      "duration": "00:48",
+      "title": "中美双方就300亿美元对等降税安排达成共识"
+    },
+    {
+      "order": 8,
+      "duration": "02:07",
+      "title": "个人机器人入局科技消费 启元全球首店落地淮海路商圈"
+    },
+    {
+      "order": 9,
+      "duration": "02:52",
+      "title": "模速空间：入驻企业累计超300家 打开“串门式合作”创业新格局"
+    },
+    {
+      "order": 10,
+      "duration": "00:48",
+      "title": "深化统战理论研究 推动上海统战工作高质量发展"
+    },
+    {
+      "order": 11,
+      "duration": "02:37",
+      "title": "上海大歌剧院迎来最后一场压力测试 红厅今晚上演喜剧歌剧 继续模拟接近满场真实观演工况"
+    },
+    {
+      "order": 12,
+      "duration": "02:48",
+      "title": "开捕前夜记者探访阳澄湖 实拍第一篓大闸蟹出水"
+    },
+    {
+      "order": 13,
+      "duration": "01:18",
+      "title": "百米披萨免费品尝 闵行披萨节人气爆棚"
+    },
+    {
+      "order": 14,
+      "duration": "02:48",
+      "title": "观众中来：七旬兄弟遗产纠纷步步升级 滋事哥哥被警方控制"
+    },
+    {
+      "order": 15,
+      "duration": "00:34",
+      "title": "塞尔维亚：武契奇辞去总统职务 准备竞选下届政府总理"
+    }
+  ]
+}
