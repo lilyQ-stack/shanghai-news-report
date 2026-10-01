@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-30",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-30",
+  "fetched_at_cn": "2026-10-01T09:22:33+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-09-30",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20260930《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 13
+  },
+  "item_count": 13,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:31",
+      "title": "20260930《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:20",
+      "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行"
+    },
+    {
+      "order": 3,
+      "duration": "03:52",
+      "title": "上海各界代表向人民英雄敬献花篮 深情缅怀英烈功勋 赓续传承初心使命"
+    },
+    {
+      "order": 4,
+      "duration": "03:16",
+      "title": "上海市纪念邹家华同志诞辰100周年座谈会举行 陈吉宁：最好的缅怀纪念就是把革命先辈毕生奋斗、终身追求的事业继续推向前进 把上海建设得更加美好"
+    },
+    {
+      "order": 5,
+      "duration": "05:49",
+      "title": "上海市十六届人大五次会议隆重举行 朱忠明当选上海市市长"
+    },
+    {
+      "order": 6,
+      "duration": "02:42",
+      "title": "上海举行国庆招待会 热烈庆祝中华人民共和国成立77周年"
+    },
+    {
+      "order": 7,
+      "duration": "02:08",
+      "title": "市政府任命的国家工作人员进行宪法宣誓"
+    },
+    {
+      "order": 8,
+      "duration": "01:28",
+      "title": "节前大客流如约而至 上海三大火车站今晚起通宵运营"
+    },
+    {
+      "order": 9,
+      "duration": "01:18",
+      "title": "长江隧桥假期总流量预计达82万辆 高东收费站节前车流上升"
+    },
+    {
+      "order": 10,
+      "duration": "02:25",
+      "title": "下午起上海出城车流迎高峰 高东收费站出现车流缓行 预计持续到明日凌晨"
+    },
+    {
+      "order": 11,
+      "duration": "01:40",
+      "title": "“雪龙”号、“雪龙2”号凯旋 带回多项新发现"
+    },
+    {
+      "order": 12,
+      "duration": "02:08",
+      "title": "《剧院魅影》四十周年上海告别季拉开首演大幕"
+    },
+    {
+      "order": 13,
+      "duration": "01:54",
+      "title": "秋耀申城乐游上海 景点文旅活动上新"
+    }
+  ]
+}
