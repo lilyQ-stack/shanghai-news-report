@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-01",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-01",
+  "fetched_at_cn": "2026-10-02T09:44:08+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-01",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261001《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:20",
+      "title": "20261001《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:22",
+      "title": "庆祝中华人民共和国成立77周年 初心绽放盛世回响 中共一大纪念馆举行升国旗仪式和主题活动"
+    },
+    {
+      "order": 3,
+      "duration": "00:46",
+      "title": "中共二大会址纪念馆：国庆期间“红色活动”丰富多元"
+    },
+    {
+      "order": 4,
+      "duration": "02:14",
+      "title": "铁路上海站 预计发送旅客85万人次 或创历史新高"
+    },
+    {
+      "order": 5,
+      "duration": "01:15",
+      "title": "上海南站：“音乐快闪”添惊喜 旅客合唱欢度国庆"
+    },
+    {
+      "order": 6,
+      "duration": "03:17",
+      "title": "上海：假期首日出城车流高位运行 今日0点至17点：高速总流量超136万辆次"
+    },
+    {
+      "order": 7,
+      "duration": "03:03",
+      "title": "登“折扇”赏美景 上海大歌剧院首度开放公众参观"
+    },
+    {
+      "order": 8,
+      "duration": "03:14",
+      "title": "抢抓假日促消费 申城商圈“宠客”优惠多"
+    },
+    {
+      "order": 9,
+      "duration": "02:14",
+      "title": "黄金周沪上文旅活动丰富 宾馆入住率上升"
+    },
+    {
+      "order": 10,
+      "duration": "01:23",
+      "title": "吴淞口国际邮轮港“双船同靠” 出入境旅客近2万人次"
+    },
+    {
+      "order": 11,
+      "duration": "02:29",
+      "title": "本土潮玩“圈粉”老外 海外顶流带火中国美食"
+    },
+    {
+      "order": 12,
+      "duration": "01:56",
+      "title": "长风公园焕新归来 开园首日人气爆棚"
+    },
+    {
+      "order": 13,
+      "duration": "01:59",
+      "title": "上海美术馆：马王堆大展闭幕在即 国庆假期将增开夜场"
+    },
+    {
+      "order": 14,
+      "duration": "01:58",
+      "title": "大师赛嘉年华抢先启幕 点燃上海假日网球热"
+    },
+    {
+      "order": 15,
+      "duration": "01:35",
+      "title": "赴以航班改道迫降 飞行员被指“蓄意坠机”"
+    }
+  ]
+}
