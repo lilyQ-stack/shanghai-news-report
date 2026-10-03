@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-02",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-02",
+  "fetched_at_cn": "2026-10-03T09:15:31+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-02",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261002《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:25",
+      "title": "20261002《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:41",
+      "title": "上海：9月二手房网签量超2.35万套 创六年同期新高"
+    },
+    {
+      "order": 3,
+      "duration": "02:59",
+      "title": "上海：潮流消费升温 释放年轻活力"
+    },
+    {
+      "order": 4,
+      "duration": "02:44",
+      "title": "RED LAND再次点燃复兴岛 警方多措并举保安全"
+    },
+    {
+      "order": 5,
+      "duration": "00:39",
+      "title": "《订“职”未来》系列报道今起推出"
+    },
+    {
+      "order": 6,
+      "duration": "03:11",
+      "title": "订“职”未来：把课堂对准产线 “订单班”里的双向奔赴"
+    },
+    {
+      "order": 7,
+      "duration": "01:17",
+      "title": "上海中心：登高望远 感受上海城市魅力"
+    },
+    {
+      "order": 8,
+      "duration": "00:49",
+      "title": "思南公馆：国庆市集活动多 逛吃玩乐人气足"
+    },
+    {
+      "order": 9,
+      "duration": "01:39",
+      "title": "国际视听艺术嘉年华落地张园 国庆快闪“点燃”城市艺术狂欢"
+    },
+    {
+      "order": 10,
+      "duration": "02:04",
+      "title": "宝山滨江 “机甲哪吒”凌空亮相！无人机烟花秀吸引超10万人次打卡"
+    },
+    {
+      "order": 11,
+      "duration": "03:17",
+      "title": "送去好菌种、带出好产业 小菌菇里的上海力量"
+    },
+    {
+      "order": 12,
+      "duration": "02:05",
+      "title": "双赛国庆集结宝山滨江 世界水上摩托锦标赛今日开赛"
+    },
+    {
+      "order": 13,
+      "duration": "02:08",
+      "title": "中小体量类型片“挑大梁” 国庆档电影市场如何吸粉？"
+    },
+    {
+      "order": 14,
+      "duration": "01:18",
+      "title": "纪念越剧宗师王文娟诞辰百年主题演出昨晚亮相申城"
+    },
+    {
+      "order": 15,
+      "duration": "01:14",
+      "title": "金山 千人丰收宴开席 假日体验独特乡野乐趣"
+    },
+    {
+      "order": 16,
+      "duration": "02:04",
+      "title": "迪拜航空客机安全事件：受伤机长和副驾返回阿联酋"
+    },
+    {
+      "order": 17,
+      "duration": "00:48",
+      "title": "美国：要求欧洲释放柴油储备 酝酿出台柴油出口禁令"
+    }
+  ]
+}
