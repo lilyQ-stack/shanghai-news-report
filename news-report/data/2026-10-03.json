@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-03",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-03",
+  "fetched_at_cn": "2026-10-04T09:43:56+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-03",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261003《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:36",
+      "title": "20261003《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:05",
+      "title": "申城迎下半年来最凉爽一天 秋天的脚步近了"
+    },
+    {
+      "order": 3,
+      "duration": "04:10",
+      "title": "文商旅体展融合 点燃假期消费盛宴"
+    },
+    {
+      "order": 4,
+      "duration": "02:12",
+      "title": "上海：多重利好叠加 十月车市迎来开门红"
+    },
+    {
+      "order": 5,
+      "duration": "02:21",
+      "title": "“沪八条”提振市场信心 楼市改善需求持续释放"
+    },
+    {
+      "order": 6,
+      "duration": "01:43",
+      "title": "洋山口岸假期繁忙 七天汽车出口预计2.16万辆"
+    },
+    {
+      "order": 7,
+      "duration": "02:24",
+      "title": "合流污水一期复线工程有序推进 “加盖施工”减少扰民"
+    },
+    {
+      "order": 8,
+      "duration": "02:00",
+      "title": "华政韬奋楼修缮归来 国庆期间部分开放"
+    },
+    {
+      "order": 9,
+      "duration": "03:12",
+      "title": "订“职”未来：产教融合 培养高技能人才"
+    },
+    {
+      "order": 10,
+      "duration": "02:00",
+      "title": "国庆假期：夏秋蔬菜无缝衔接 “菜篮子”量足价稳"
+    },
+    {
+      "order": 11,
+      "duration": "01:57",
+      "title": "“沪派江南”首个项目成型 金山“新元市集”国庆开市"
+    },
+    {
+      "order": 12,
+      "duration": "02:03",
+      "title": "亚洲最大长须鲸骨骼标本亮相浦东机场"
+    },
+    {
+      "order": 13,
+      "duration": "03:00",
+      "title": "“水稻上山”的上海方案：从23万多份基因中选出的神奇种子"
+    },
+    {
+      "order": 14,
+      "duration": "01:11",
+      "title": "“中部-2026”战略演习闭幕 中俄等8国参加"
+    },
+    {
+      "order": 15,
+      "duration": "01:46",
+      "title": "迪拜航空客机安全事件：涉事机长讲述惊魂一刻"
+    }
+  ]
+}
