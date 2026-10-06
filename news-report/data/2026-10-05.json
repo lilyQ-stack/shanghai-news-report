@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-05",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-05",
+  "fetched_at_cn": "2026-10-06T10:21:51+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-05",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261005《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 13
+  },
+  "item_count": 13,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:31",
+      "title": "20261005《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:18",
+      "title": "“潮”聚人气，复兴岛何以蝶变“顶流岛”？"
+    },
+    {
+      "order": 3,
+      "duration": "03:58",
+      "title": "复兴岛：从“战略留白”到“全城顶流”"
+    },
+    {
+      "order": 4,
+      "duration": "03:38",
+      "title": "搭载青春经济与潮流文化 160余个IP齐聚复兴岛"
+    },
+    {
+      "order": 5,
+      "duration": "01:17",
+      "title": "雨水暂别申城 外滩再迎大客流"
+    },
+    {
+      "order": 6,
+      "duration": "02:12",
+      "title": "假期西岸人潮涌动 滨水热度点燃科技消费"
+    },
+    {
+      "order": 7,
+      "duration": "02:53",
+      "title": "上海网球大师赛打响 球迷享受网球盛宴"
+    },
+    {
+      "order": 8,
+      "duration": "01:52",
+      "title": "《时空之旅》连演13场 长假上新吸引入境观众"
+    },
+    {
+      "order": 9,
+      "duration": "03:16",
+      "title": "从“会种地”到“慧种地”“上海方案”服务全国"
+    },
+    {
+      "order": 10,
+      "duration": "03:15",
+      "title": "订“职”未来 职校只是起点 未来无限可能"
+    },
+    {
+      "order": 11,
+      "duration": "01:56",
+      "title": "犬敏捷趣味赛吸引长三角犬主 市民体育公园打造一站式微度假"
+    },
+    {
+      "order": 12,
+      "duration": "01:40",
+      "title": "桃浦中央公园：“露营+音乐”房车音乐嘉年华一票难求"
+    },
+    {
+      "order": 13,
+      "duration": "00:51",
+      "title": "2026年诺贝尔生理学或医学奖揭晓"
+    }
+  ]
+}
