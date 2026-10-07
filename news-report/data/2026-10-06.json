@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-06",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-06",
+  "fetched_at_cn": "2026-10-07T09:41:31+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-06",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261006《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:23",
+      "title": "20261006《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:49",
+      "title": "国庆假期第六天 返程高峰启动 长江隧桥今明两日预计将迎超15万入沪车辆"
+    },
+    {
+      "order": 3,
+      "duration": "01:58",
+      "title": "国庆假期第六天 铁路上海站：今日预计到达80.4万人次 虹桥站等通宵运营"
+    },
+    {
+      "order": 4,
+      "duration": "00:30",
+      "title": "上海口岸1日至5日出入境旅客57.7万人次 外籍旅客同比增3.3%"
+    },
+    {
+      "order": 5,
+      "duration": "01:24",
+      "title": "昼夜温差拉大 申城桂花逐渐飘香"
+    },
+    {
+      "order": 6,
+      "duration": "00:42",
+      "title": "91天的城市邀约 2026上海旅游节今夜收官"
+    },
+    {
+      "order": 7,
+      "duration": "02:46",
+      "title": "花车点亮“上海之根”上海旅游节今夜收官"
+    },
+    {
+      "order": 8,
+      "duration": "03:20",
+      "title": "前9月上海离境退税消费增长52% 首个地铁“即买即退”亮相豫园"
+    },
+    {
+      "order": 9,
+      "duration": "02:56",
+      "title": "龙美术馆免费开放 两大重磅展览国庆人气旺"
+    },
+    {
+      "order": 10,
+      "duration": "03:22",
+      "title": "订“职”未来 老牌幼教院校开出新专业 这群“00后”选择学养老"
+    },
+    {
+      "order": 11,
+      "duration": "03:34",
+      "title": "从“开好药”到“管好药”36家医院药学门诊试点医保付费"
+    },
+    {
+      "order": 12,
+      "duration": "01:59",
+      "title": "谭盾、石倚洁领衔 青浦水岸音乐季启幕"
+    },
+    {
+      "order": 13,
+      "duration": "01:15",
+      "title": "徐汇西岸运动公园焕新 市民游客乐享滨水活力"
+    },
+    {
+      "order": 14,
+      "duration": "00:38",
+      "title": "2026年诺贝尔物理学奖授予中微子天文学奠基者"
+    },
+    {
+      "order": 15,
+      "duration": "01:37",
+      "title": "用“光开关”探索大脑奥秘 光遗传学研究获得诺奖"
+    },
+    {
+      "order": 16,
+      "duration": "01:56",
+      "title": "西班牙首相宣布将提前举行大选"
+    },
+    {
+      "order": 17,
+      "duration": "00:40",
+      "title": "战火升级 也门政府宣布夺回战略要地"
+    },
+    {
+      "order": 18,
+      "duration": "00:32",
+      "title": "法国“戴高乐”号航母检修期间起火"
+    }
+  ]
+}
