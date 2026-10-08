@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-07",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-07",
+  "fetched_at_cn": "2026-10-08T10:06:18+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-07",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261007《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:47",
+      "title": "20261007《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:04",
+      "title": "铁路上海站预计今日到达84.4万人次 三大火车站通宵运营"
+    },
+    {
+      "order": 3,
+      "duration": "02:32",
+      "title": "铁路上海站迎返程客流最高峰"
+    },
+    {
+      "order": 4,
+      "duration": "02:36",
+      "title": "上海各大高速返程车流平稳有序 G40长江隧桥出现缓行 返程高峰将持续至夜间"
+    },
+    {
+      "order": 5,
+      "duration": "03:08",
+      "title": "假期最后一天 公路迎来返程客流高峰"
+    },
+    {
+      "order": 6,
+      "duration": "01:47",
+      "title": "两大机场迎返程高峰 假期日均运输客流42万人次"
+    },
+    {
+      "order": 7,
+      "duration": "02:32",
+      "title": "网球大师赛正赛开始 种子选手纷纷亮相训练场"
+    },
+    {
+      "order": 8,
+      "duration": "01:49",
+      "title": "联动“潦草小狗”网球大师赛“第二现场”点燃全城观赛氛围"
+    },
+    {
+      "order": 9,
+      "duration": "00:28",
+      "title": "上海：国庆长假共接待游客2020.54万人次"
+    },
+    {
+      "order": 10,
+      "duration": "01:57",
+      "title": "上海天文馆 太阳塔升级迎客 看展听讲解种下探索宇宙种子"
+    },
+    {
+      "order": 11,
+      "duration": "01:22",
+      "title": "申城已于10月3日入秋"
+    },
+    {
+      "order": 12,
+      "duration": "02:08",
+      "title": "上海郊区“一老一小”免费流感疫苗开打"
+    },
+    {
+      "order": 13,
+      "duration": "02:26",
+      "title": "以一张票根联动全域 青浦“六业”热力全开"
+    },
+    {
+      "order": 14,
+      "duration": "02:24",
+      "title": "男孩赌气走开拒接母亲电话 民警联动搜寻及时找回"
+    },
+    {
+      "order": 15,
+      "duration": "00:16",
+      "title": "2026年诺贝尔化学奖揭晓 法国日本两位科学家分享殊荣"
+    },
+    {
+      "order": 16,
+      "duration": "02:32",
+      "title": "2026年诺贝尔物理学奖揭晓“冰中捉幽灵”打开宇宙新窗口"
+    },
+    {
+      "order": 17,
+      "duration": "01:08",
+      "title": "中国版“冰立方”：中国首个深海中微子望远镜项目“海铃计划”"
+    }
+  ]
+}
