@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-08",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-08",
+  "fetched_at_cn": "2026-10-09T10:20:20+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-08",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261008《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:34",
+      "title": "20261008《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "05:04",
+      "title": "第48届世界技能大赛上海市总结大会举行 陈吉宁：用好办赛成果 发扬办赛经验 保持办赛激情 打造技能人才“上海高地” 提高城市治理能力本领"
+    },
+    {
+      "order": 3,
+      "duration": "01:46",
+      "title": "外高桥海通码头“四船同靠” 国产汽车“水水中转”加速出海"
+    },
+    {
+      "order": 4,
+      "duration": "01:55",
+      "title": "普陀161套保租房新上市 新就业青年可享补贴入住"
+    },
+    {
+      "order": 5,
+      "duration": "02:16",
+      "title": "生娃“无自付”落地 产科医院建大卡门诊量“爆棚”"
+    },
+    {
+      "order": 6,
+      "duration": "03:27",
+      "title": "寒露至 秋意浓"
+    },
+    {
+      "order": 7,
+      "duration": "02:31",
+      "title": "上海 “十五五”所有社区卫生服务中心至少建成一个专病专科门诊"
+    },
+    {
+      "order": 8,
+      "duration": "00:44",
+      "title": "十二届上海市委第九轮巡视启动"
+    },
+    {
+      "order": 9,
+      "duration": "02:01",
+      "title": "活动审批无需多部门奔走 最快3个工作日办结 全市首个区级“文商旅体展绿一站式服务平台”上线"
+    },
+    {
+      "order": 10,
+      "duration": "02:42",
+      "title": "大师赛：阿卡抵沪开练 小德今晚夜训"
+    },
+    {
+      "order": 11,
+      "duration": "01:56",
+      "title": "历史的棋局 原创舞剧《楚河汉界》亮相申城"
+    },
+    {
+      "order": 12,
+      "duration": "02:15",
+      "title": "指挥大师迪图瓦在沪迎90岁生日 上海交响乐团获赠其毕生珍藏"
+    },
+    {
+      "order": 13,
+      "duration": "01:51",
+      "title": "网购衣服谎称藏针 女子恶意索赔被刑拘"
+    },
+    {
+      "order": 14,
+      "duration": "01:43",
+      "title": "俄罗斯：鼠疫研究机构一员工确诊“不明原因肺炎”"
+    },
+    {
+      "order": 15,
+      "duration": "00:48",
+      "title": "美国土安全部：拟就国际学生留美工作征收高额费用"
+    }
+  ]
+}
