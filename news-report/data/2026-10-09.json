@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-09",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-09",
+  "fetched_at_cn": "2026-10-10T09:49:44+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-09",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261009《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 11
+  },
+  "item_count": 11,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:01",
+      "title": "20261009《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "05:31",
+      "title": "陈吉宁主持市委季度工作会议 强调以事不避难勇气、攻坚克难智慧 抓实四季度各项工作 确保实现全年目标任务 着力把经济向新向优向好态势巩固好保持好发展好"
+    },
+    {
+      "order": 3,
+      "duration": "07:07",
+      "title": "陈吉宁在上海市城市治理现代化现场推进会上要求以绣花般细心耐心巧心 在城市治理科学化精细化智能化上下更大功夫 建设干净整洁、井然有序、智慧便利、美丽文明、韧性安全城市 坚定走好中国特色超大城市治理现代化新路"
+    },
+    {
+      "order": 4,
+      "duration": "01:21",
+      "title": "陈吉宁朱忠明与青海省果洛州党政代表团座谈 在新起点上共谱两地合作交流新篇章"
+    },
+    {
+      "order": 5,
+      "duration": "02:51",
+      "title": "金价一个月跌去10% 金饰店顾客明显增加"
+    },
+    {
+      "order": 6,
+      "duration": "00:57",
+      "title": "国庆假期上海楼市：新房成交面积同比翻倍"
+    },
+    {
+      "order": 7,
+      "duration": "01:29",
+      "title": "大师赛种子选手陆续登场 德约今夜迎战胡尔卡奇"
+    },
+    {
+      "order": 8,
+      "duration": "01:52",
+      "title": "2026环崇明岛女子世巡赛开赛 13支国际车队竞逐生态岛"
+    },
+    {
+      "order": 9,
+      "duration": "02:43",
+      "title": "三辆尊界百万豪车实测刹车踏板断裂引关注"
+    },
+    {
+      "order": 10,
+      "duration": "02:05",
+      "title": "记者观察 网传今年大闸蟹价格“崩盘”？量产大年致价格分化"
+    },
+    {
+      "order": 11,
+      "duration": "04:32",
+      "title": "“灰色青旅”藏身商务楼 平台审核岂能形同虚设？"
+    }
+  ]
+}
