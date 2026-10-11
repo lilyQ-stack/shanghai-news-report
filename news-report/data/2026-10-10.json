@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-10",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-10",
+  "fetched_at_cn": "2026-10-11T09:05:17+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-10",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261010《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:38",
+      "title": "20261010《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:46",
+      "title": "陈吉宁分晤来沪参加第38次市咨会嘉宾 期待国际企业家为上海推进现代化建设和高质量发展出谋划策提供更多先进经验专业见解 促进开放合作走深走实"
+    },
+    {
+      "order": 3,
+      "duration": "01:47",
+      "title": "朱忠明分晤来沪参加第38次市咨会嘉宾"
+    },
+    {
+      "order": 4,
+      "duration": "02:06",
+      "title": "上海市政府常务会议传达学习贯彻习近平总书记致第48届世界技能大赛贺信精神"
+    },
+    {
+      "order": 5,
+      "duration": "03:23",
+      "title": "国际企业家登上复兴岛 沉浸式感受上海创新力"
+    },
+    {
+      "order": 6,
+      "duration": "01:13",
+      "title": "长三角铁路明起实施新列车运行图 铁路上海站开行列车达718.5对 创历史新高"
+    },
+    {
+      "order": 7,
+      "duration": "01:55",
+      "title": "黄浦江上第四座大桥变身“双子桥”奉浦大桥西桥建成通车"
+    },
+    {
+      "order": 8,
+      "duration": "02:32",
+      "title": "上海大师赛 德约爆冷遭遇一轮游 小将周意挺进第三轮"
+    },
+    {
+      "order": 9,
+      "duration": "01:48",
+      "title": "“鼠疫疑云”引热议 专家解析鼠疫类型及防护"
+    },
+    {
+      "order": 10,
+      "duration": "02:56",
+      "title": "上海楼市持续回暖 国庆假期一二手房成交同步攀升"
+    },
+    {
+      "order": 11,
+      "duration": "02:35",
+      "title": "新闻追踪 九旬老人带俩儿子住养老院后续：公益力量让守护更有温度"
+    },
+    {
+      "order": 12,
+      "duration": "01:52",
+      "title": "3个月“仅退款”399件商品 女子疯狂“薅羊毛”终落网"
+    },
+    {
+      "order": 13,
+      "duration": "00:40",
+      "title": "世界精神卫生日：“600号画廊”将全市巡展"
+    },
+    {
+      "order": 14,
+      "duration": "01:41",
+      "title": "上海千年古银杏园焕新归来 “第一古树”即将迎来观赏季"
+    },
+    {
+      "order": 15,
+      "duration": "01:37",
+      "title": "一城秋色半城花海 上海初秋太浪漫！"
+    },
+    {
+      "order": 16,
+      "duration": "01:19",
+      "title": "巴拿马：7.6级强震来袭 首都震感明显"
+    }
+  ]
+}
