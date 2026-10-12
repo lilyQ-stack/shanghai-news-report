@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-11",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-11",
+  "fetched_at_cn": "2026-10-12T09:26:42+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-11",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261011《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:20",
+      "title": "20261011《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "07:46",
+      "title": "第38次上海市市长国际企业家咨询会议举行 陈吉宁：需求牵引 改革攻坚 科技赋能 开放合作 进一步打响“上海服务”品牌 推动服务业优质高效发展"
+    },
+    {
+      "order": 3,
+      "duration": "01:42",
+      "title": "聚焦服务业创新发展“洋高参”积极建言献策"
+    },
+    {
+      "order": 4,
+      "duration": "01:14",
+      "title": "申城多云主基调不变 满城桂花飘香"
+    },
+    {
+      "order": 5,
+      "duration": "02:52",
+      "title": "全国雅思考试大面积临时取消 退费重考如何安排？"
+    },
+    {
+      "order": 6,
+      "duration": "02:03",
+      "title": "压力测试收官 上海大歌剧院优化不止步"
+    },
+    {
+      "order": 7,
+      "duration": "01:28",
+      "title": "第26届工博会明日开幕 参展企业超3000家"
+    },
+    {
+      "order": 8,
+      "duration": "00:42",
+      "title": "沿江通道浦东段工程 主线高架初具雏形 上海绕城高速预计明年底“成环”"
+    },
+    {
+      "order": 9,
+      "duration": "01:44",
+      "title": "上海网球大师赛 小将周意拼满3盘惜败 首进32强带来惊喜"
+    },
+    {
+      "order": 10,
+      "duration": "01:08",
+      "title": "2026环崇明岛女子世巡赛今日收官"
+    },
+    {
+      "order": 11,
+      "duration": "01:47",
+      "title": "观众中来：居民投诉养猪场臭气 新浜镇：近期加强监管 同步规划“楼房养猪”项目"
+    },
+    {
+      "order": 12,
+      "duration": "01:35",
+      "title": "黄金塞进黄鱼肚里寄出？警方及时拦截"
+    },
+    {
+      "order": 13,
+      "duration": "01:43",
+      "title": "AI批量炮制上海市郊虚假房源 嘉定一中介公司12人被处罚"
+    },
+    {
+      "order": 14,
+      "duration": "02:08",
+      "title": "冬暖夏凉隔音降噪“好房子”细节见功夫"
+    },
+    {
+      "order": 15,
+      "duration": "00:28",
+      "title": "“年龄无界限 生活更出圈”虹口敬老月主题活动启幕"
+    },
+    {
+      "order": 16,
+      "duration": "00:43",
+      "title": "沙特首都利雅得机场再遭袭 已致12死309伤"
+    },
+    {
+      "order": 17,
+      "duration": "00:45",
+      "title": "世卫：俄不明原因肺炎事件无持续传播证据"
+    },
+    {
+      "order": 18,
+      "duration": "00:48",
+      "title": "美乌分歧扩大 特朗普喊话乌克兰“换总统”"
+    }
+  ]
+}
