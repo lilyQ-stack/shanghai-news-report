@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-12",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-12",
+  "fetched_at_cn": "2026-10-13T11:05:25+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-12",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261012《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:12",
+      "title": "20261012《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:37",
+      "title": "第二十六届工博会开幕 近300项首发首秀定义未来智造"
+    },
+    {
+      "order": 3,
+      "duration": "02:16",
+      "title": "2026工博会 上海启动新一代智能制造行动 推动8000台人形机器人进工厂"
+    },
+    {
+      "order": 4,
+      "duration": "03:05",
+      "title": "44所双一流高校参展工博会 从可控核聚变到脑病治疗 高校硬核成果集体亮相"
+    },
+    {
+      "order": 5,
+      "duration": "00:49",
+      "title": "第九届进博会首批展品到港 海关开设专窗提升通关效率"
+    },
+    {
+      "order": 6,
+      "duration": "02:02",
+      "title": "跨国药企加码上海创新 勃林格殷格翰中国研发中心落户张江"
+    },
+    {
+      "order": 7,
+      "duration": "01:50",
+      "title": "存量商办楼变身OPC社区 陆家嘴再添“AI创业新空间”"
+    },
+    {
+      "order": 8,
+      "duration": "00:46",
+      "title": "优化医疗卫生资源布局 市政协召开专题通报会"
+    },
+    {
+      "order": 9,
+      "duration": "01:59",
+      "title": "上海时装周别开生面 新中式大秀走进博物馆"
+    },
+    {
+      "order": 10,
+      "duration": "02:18",
+      "title": "美誉东方共赢未来 2027SMG商业价值共创周开幕"
+    },
+    {
+      "order": 11,
+      "duration": "01:07",
+      "title": "桂香满城秋意渐浓 明起多云周末有雨"
+    },
+    {
+      "order": 12,
+      "duration": "02:02",
+      "title": "新闻特写：等了13年的当面致谢"
+    },
+    {
+      "order": 13,
+      "duration": "01:45",
+      "title": "上海网球大师赛 男单16强将全部产生 中国男双组合止步次轮"
+    },
+    {
+      "order": 14,
+      "duration": "01:36",
+      "title": "熬过低谷终迎绽放 郑钦文首夺中网冠军"
+    },
+    {
+      "order": 15,
+      "duration": "02:20",
+      "title": "艺术节“艺术天空”惠民活动启幕 高空起舞 在复兴岛看见《站台奇妙夜》"
+    },
+    {
+      "order": 16,
+      "duration": "00:40",
+      "title": "2026诺贝尔经济学奖揭晓 以微观基础重构宏观政策"
+    },
+    {
+      "order": 17,
+      "duration": "02:26",
+      "title": "沙特首都国际机场再遭袭 造成1死11伤"
+    }
+  ]
+}
