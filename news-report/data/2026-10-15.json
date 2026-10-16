@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-15",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-15",
+  "fetched_at_cn": "2026-10-16T08:31:07+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-15",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261015《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:21",
+      "title": "20261015《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:26",
+      "title": "上海大歌剧院即将盛大开幕 开幕音乐会亮点纷呈"
+    },
+    {
+      "order": 3,
+      "duration": "02:03",
+      "title": "第二十五届中国上海国际艺术节 国际演艺大会启幕 顶级演艺资源纷至沓来"
+    },
+    {
+      "order": 4,
+      "duration": "02:54",
+      "title": "用当代视角激活经典 民族舞剧《小刀会》复排"
+    },
+    {
+      "order": 5,
+      "duration": "00:55",
+      "title": "朱忠明会见巴基斯坦信德省首席部长"
+    },
+    {
+      "order": 6,
+      "duration": "01:10",
+      "title": "婴幼儿纸尿裤甲酰胺问题核查情况公布 抽检368批次纸尿裤成品样品 未检出甲酰胺"
+    },
+    {
+      "order": 7,
+      "duration": "02:37",
+      "title": "滴露物化女性广告被通报 两公司共被罚没超106万元"
+    },
+    {
+      "order": 8,
+      "duration": "01:58",
+      "title": "应急药护航出行路 记者探访上海机场医疗急救站"
+    },
+    {
+      "order": 9,
+      "duration": "02:31",
+      "title": "内河船舶首次加注生物质甲醇 上海打通绿色航运全产业链"
+    },
+    {
+      "order": 10,
+      "duration": "01:30",
+      "title": "上海大师赛：弗基纳晋级男单四强"
+    },
+    {
+      "order": 11,
+      "duration": "01:26",
+      "title": "免票全开放！2026FISE上海站开赛"
+    },
+    {
+      "order": 12,
+      "duration": "03:13",
+      "title": "观众中来：新闻特写 23岁心智障碍女孩端出人生第一杯咖啡"
+    },
+    {
+      "order": 13,
+      "duration": "00:47",
+      "title": "162分钟往返！直升机携医护人员成功救助受伤渔民"
+    },
+    {
+      "order": 14,
+      "duration": "01:33",
+      "title": "深夜电捕鱼非法牟利 12人犯罪团伙终落网"
+    },
+    {
+      "order": 15,
+      "duration": "02:26",
+      "title": "经典喜剧《钦差大臣》周末上演 72岁李诚儒出演核心人物"
+    },
+    {
+      "order": 16,
+      "duration": "02:40",
+      "title": "“北溪”爆炸案首次在德国开庭 嫌疑人被控涉嫌战争罪行 辩方称嫌疑人无法充分行使辩护权 要求检方撤诉"
+    },
+    {
+      "order": 17,
+      "duration": "00:46",
+      "title": "消息称美军制定新的对伊打击计划 考虑使用“炸弹之母” 伊朗：全面监控霍尔木兹海峡 准备好应对新战争"
+    }
+  ]
+}
