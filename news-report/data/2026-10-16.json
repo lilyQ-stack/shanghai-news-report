@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-16",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-16",
+  "fetched_at_cn": "2026-10-17T08:37:20+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-16",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261016《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:54",
+      "title": "20261016《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:33",
+      "title": "中共上海市委常委会举行会议 传达学习习近平总书记在全国卫生与健康大会上的重要讲话精神"
+    },
+    {
+      "order": 3,
+      "duration": "03:05",
+      "title": "重阳节来临之际 市领导分路走访慰问 陈吉宁：完善保障体系 扩大服务供给 提供健康支撑 推进养老服务高质量发展 让老年人安享幸福美满晚年"
+    },
+    {
+      "order": 4,
+      "duration": "02:41",
+      "title": "市领导分路走访慰问 向全市老年人致以重阳节诚挚问候"
+    },
+    {
+      "order": 5,
+      "duration": "01:07",
+      "title": "陈吉宁会见德国汉堡市市长 以友城合作40周年为新起点 实现更高水平互利共赢"
+    },
+    {
+      "order": 6,
+      "duration": "00:58",
+      "title": "陈吉宁会见美国苹果公司负责人"
+    },
+    {
+      "order": 7,
+      "duration": "00:59",
+      "title": "陈吉宁会见新加坡丰益国际集团负责人"
+    },
+    {
+      "order": 8,
+      "duration": "02:27",
+      "title": "朱忠明在上海市政府四季度工作会议上要求 鼓足干劲、砥砺韧劲、增强拼劲 以实干实效交出亮眼成绩单 以决战决胜姿态冲刺全年目标任务"
+    },
+    {
+      "order": 9,
+      "duration": "03:05",
+      "title": "黄浦江畔世界级文化新地标 上海大歌剧院明日开幕！"
+    },
+    {
+      "order": 10,
+      "duration": "02:57",
+      "title": "第九届进博会 筹备基本就绪 首发、首展、首秀创历年新高"
+    },
+    {
+      "order": 11,
+      "duration": "02:16",
+      "title": "第九届进博会 临港展示区：百余家企业汇集 特斯拉首设专区"
+    },
+    {
+      "order": 12,
+      "duration": "00:31",
+      "title": "秋日桂香如约而至 桂林公园迎最佳观赏季"
+    },
+    {
+      "order": 13,
+      "duration": "01:04",
+      "title": "本周日申城回暖直冲30℃ 冷暖交替下周冷空气频繁"
+    },
+    {
+      "order": 14,
+      "duration": "01:51",
+      "title": "《生态环境法典》落地见效 “改装炸街”车主被罚2000元扣证6个月"
+    },
+    {
+      "order": 15,
+      "duration": "01:29",
+      "title": "环球美食汇点亮城市消费新场景 舌尖偶遇拉美风情 首届塔可节登陆陆家嘴"
+    },
+    {
+      "order": 16,
+      "duration": "01:38",
+      "title": "东方有线：爱暖重阳 推进“人工智能进万家”"
+    },
+    {
+      "order": 17,
+      "duration": "01:11",
+      "title": "甘肃天水幼儿园铅中毒案一审宣判 幼儿园实际负责人被判无期徒刑、执行园长被判15年有期徒刑"
+    },
+    {
+      "order": 18,
+      "duration": "01:09",
+      "title": "能飞还会在空中翻滚！特斯拉新款Roadster跑车亮相"
+    }
+  ]
+}
