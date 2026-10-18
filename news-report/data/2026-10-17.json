@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-17",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-17",
+  "fetched_at_cn": "2026-10-18T08:07:01+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-17",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261017《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:50",
+      "title": "20261017《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:49",
+      "title": "上海大歌剧院：迎宾快闪+散场演出 烘托节日氛围"
+    },
+    {
+      "order": 3,
+      "duration": "03:44",
+      "title": "浦江之畔“中国扇”开 上海大歌剧院启幕 热场快闪演出精彩纷呈 现场气氛热烈"
+    },
+    {
+      "order": 4,
+      "duration": "00:44",
+      "title": "上海演艺集团成立 打造全国领先演艺“航空母舰”"
+    },
+    {
+      "order": 5,
+      "duration": "02:10",
+      "title": "上海：文艺改革迎重要时刻 让机制创新成为文艺繁荣引擎"
+    },
+    {
+      "order": 6,
+      "duration": "01:02",
+      "title": "海上快评 三大艺术盛事同日交汇 上海主场何以声动世界"
+    },
+    {
+      "order": 7,
+      "duration": "03:22",
+      "title": "全球歌剧“掌门人”汇聚上海大歌剧院 共话歌剧未来"
+    },
+    {
+      "order": 8,
+      "duration": "01:40",
+      "title": "第六届丝绸之路国际艺术节联盟年会在沪举行 “朋友圈”持续扩大 联盟成员机构达216家"
+    },
+    {
+      "order": 9,
+      "duration": "01:53",
+      "title": "城市草坪音乐会“秋之韵”启幕 巴西巴拉那交响乐团倾情演奏"
+    },
+    {
+      "order": 10,
+      "duration": "02:16",
+      "title": "光影节落幕：超2305万人次“追光” 带动商圈消费超54亿多元"
+    },
+    {
+      "order": 11,
+      "duration": "01:47",
+      "title": "第九届进博会：志愿者集结誓师 多元力量护航盛会"
+    },
+    {
+      "order": 12,
+      "duration": "01:59",
+      "title": "民航冬春航季开启在即 跨境航线扩容冰雪游发力"
+    },
+    {
+      "order": 13,
+      "duration": "02:25",
+      "title": "AI for Science重塑科研 上海构筑科学仪器原生创新范式"
+    },
+    {
+      "order": 14,
+      "duration": "02:11",
+      "title": "百年守望焕新归来 外滩信号台向公众开放"
+    },
+    {
+      "order": 15,
+      "duration": "01:39",
+      "title": "蟹博会：全国大闸蟹打擂台 家门口赴金秋蟹宴"
+    },
+    {
+      "order": 16,
+      "duration": "01:48",
+      "title": "CBA揭幕战：上海男篮大胜深圳队 开启卫冕之路"
+    }
+  ]
+}
