@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-18",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-18",
+  "fetched_at_cn": "2026-10-19T08:16:49+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-18",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261018《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:04",
+      "title": "20261018《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:49",
+      "title": "第二十五届中国上海国际艺术节在上海大歌剧院开幕"
+    },
+    {
+      "order": 3,
+      "duration": "02:00",
+      "title": "《上海戏剧振兴三年行动计划（2026—2028年）》发布暨上海演艺集团成立仪式在上海大歌剧院举行"
+    },
+    {
+      "order": 4,
+      "duration": "00:54",
+      "title": "朱忠明会见高瓴负责人和跨国企业家海外投资人代表"
+    },
+    {
+      "order": 5,
+      "duration": "03:59",
+      "title": "东西和鸣“中国扇” 上海大歌剧院正式启幕"
+    },
+    {
+      "order": 6,
+      "duration": "03:00",
+      "title": "上海演艺升级重塑 激发文艺院团创新创造活力"
+    },
+    {
+      "order": 7,
+      "duration": "01:04",
+      "title": "上海：晴雨频繁切换 下周三最低温重回“1”字头"
+    },
+    {
+      "order": 8,
+      "duration": "02:04",
+      "title": "7.5小时认购率超255% 内环楼盘今年首次触发积分摇号"
+    },
+    {
+      "order": 9,
+      "duration": "03:10",
+      "title": "中医养生、国风妆造 老外游上海掀起“Chinamaxxing”新风尚"
+    },
+    {
+      "order": 10,
+      "duration": "02:14",
+      "title": "重阳敬老进商圈 银发经济焕活力"
+    },
+    {
+      "order": 11,
+      "duration": "00:34",
+      "title": "上海网球大师赛 男单决赛上演“西班牙德比” 决胜盘正在进行中"
+    },
+    {
+      "order": 12,
+      "duration": "02:37",
+      "title": "上海网球大师赛 近25万人次观赛 赛事总营收5亿元创新高"
+    },
+    {
+      "order": 13,
+      "duration": "00:57",
+      "title": "2026场地自行车世锦赛收官 中国队2金1铜创最佳战绩"
+    },
+    {
+      "order": 14,
+      "duration": "02:18",
+      "title": "观众中来：记者调查 学生名单售价数万元 个人信息竟成教培机构招生“资源”"
+    },
+    {
+      "order": 15,
+      "duration": "02:07",
+      "title": "法国：不满生活成本高涨 多地民众抗议"
+    },
+    {
+      "order": 16,
+      "duration": "00:37",
+      "title": "新加坡：厚重烟霾笼罩 空气质量连续不达标"
+    }
+  ]
+}
