@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-19",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-19",
+  "fetched_at_cn": "2026-10-20T09:07:38+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-19",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261019《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:49",
+      "title": "20261019《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:20",
+      "title": "前三季度我国GDP同比增长4.6%"
+    },
+    {
+      "order": 3,
+      "duration": "02:53",
+      "title": "国际视听艺术之夜在沪举办 慎海雄朱忠明致辞并启动共创行动 大力推动全链条优化升级 擦亮上海视听产业“金字招牌”"
+    },
+    {
+      "order": 4,
+      "duration": "01:10",
+      "title": "朱忠明会见新西兰达尼丁市市长 共签新一轮友城合作备忘录"
+    },
+    {
+      "order": 5,
+      "duration": "01:11",
+      "title": "申城今日最高温24.7°C 冷空气将带来大风降温"
+    },
+    {
+      "order": 6,
+      "duration": "02:49",
+      "title": "申城楼市“金九”行情兑现 新房改善产品热销"
+    },
+    {
+      "order": 7,
+      "duration": "02:08",
+      "title": "政策红利持续释放 申城二手房价同比“转正”"
+    },
+    {
+      "order": 8,
+      "duration": "02:10",
+      "title": "聚焦实景实战 2026国际具身智能技能大赛即将启幕"
+    },
+    {
+      "order": 9,
+      "duration": "01:31",
+      "title": "赓续先生志 纪念鲁迅逝世90周年主题活动在沪举行"
+    },
+    {
+      "order": 10,
+      "duration": "01:05",
+      "title": "闹市街头惊现脱缰马匹 警方及时处置无人受伤"
+    },
+    {
+      "order": 11,
+      "duration": "01:29",
+      "title": "上海：启动交通违法专项整治 严查酒驾、违法变道等行为"
+    },
+    {
+      "order": 12,
+      "duration": "03:12",
+      "title": "观众中来：无障碍通道加装“拱门”妨碍通行将被拆除"
+    },
+    {
+      "order": 13,
+      "duration": "01:26",
+      "title": "乘客万米高空晕倒 上海医生空地联动急救"
+    },
+    {
+      "order": 14,
+      "duration": "02:27",
+      "title": "唐镇迎来首家三甲医院 胸科医院浦东院区明天开业"
+    },
+    {
+      "order": 15,
+      "duration": "01:57",
+      "title": "两位世界级“罗西尼男高音”倾情演绎 双子山下唱响“星光咏叹”"
+    },
+    {
+      "order": 16,
+      "duration": "00:45",
+      "title": "陆家嘴国际咖啡文化季开幕 首度联动上海国际艺术节"
+    },
+    {
+      "order": 17,
+      "duration": "02:07",
+      "title": "欧洲多国爆发示威活动 法国超2000人被捕"
+    },
+    {
+      "order": 18,
+      "duration": "00:39",
+      "title": "冲突持续 沙特与胡塞互袭致多人伤亡"
+    }
+  ]
+}
