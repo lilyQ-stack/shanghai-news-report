@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-20",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-20",
+  "fetched_at_cn": "2026-10-21T08:42:20+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-20",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261020《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:34",
+      "title": "20261020《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:28",
+      "title": "2026北外滩国际航运论坛在沪开幕"
+    },
+    {
+      "order": 3,
+      "duration": "01:09",
+      "title": "陈吉宁会见国际海事组织秘书长"
+    },
+    {
+      "order": 4,
+      "duration": "01:49",
+      "title": "中国民航局与上海市政府座谈 推动上海国际航空枢纽建设取得新进展"
+    },
+    {
+      "order": 5,
+      "duration": "03:13",
+      "title": "2026北外滩国际航运论坛 共同的挑战与使命 共促全球航运韧性发展"
+    },
+    {
+      "order": 6,
+      "duration": "00:51",
+      "title": "北外滩国际航空论坛 2030年完成浦东机场四期 2035年建成南通新机场"
+    },
+    {
+      "order": 7,
+      "duration": "00:37",
+      "title": "台风“蔷琵”外围云系影响申城 周后期或现暴雨天气"
+    },
+    {
+      "order": 8,
+      "duration": "02:23",
+      "title": "星巴克“消费入座”？记者实探上海门店"
+    },
+    {
+      "order": 9,
+      "duration": "02:18",
+      "title": "我国首台实船应用大功率极地破冰型吊舱推进器在沪下线"
+    },
+    {
+      "order": 10,
+      "duration": "00:39",
+      "title": "世界城市日城发大会11月2日开幕 曹杨新村和环城生态公园带入选2026版《上海手册》"
+    },
+    {
+      "order": 11,
+      "duration": "00:59",
+      "title": "上海：推进工程建设招投标智慧监管监督平台建设"
+    },
+    {
+      "order": 12,
+      "duration": "02:04",
+      "title": "中共一大纪念馆 共和国的脊梁“伟大建党精神与科学家精神”专题展开幕"
+    },
+    {
+      "order": 13,
+      "duration": "01:49",
+      "title": "汇集众多热门演出 艺术节第二轮优惠票开售"
+    },
+    {
+      "order": 14,
+      "duration": "02:00",
+      "title": "老人频收高价快递 快递员留心牵出保健品骗局"
+    },
+    {
+      "order": 15,
+      "duration": "02:54",
+      "title": "记者调查“瑞士种植牙”买一送一 手术台上竟变国产？"
+    },
+    {
+      "order": 16,
+      "duration": "01:54",
+      "title": "先打赏再设局“榜一大哥”诈骗主播逾120万元"
+    },
+    {
+      "order": 17,
+      "duration": "02:11",
+      "title": "防止骚乱重演 法国巴黎等多个市镇实施局部宵禁"
+    },
+    {
+      "order": 18,
+      "duration": "00:39",
+      "title": "美国：马斯克“撒股票”全美儿童有望人手一股SpaceX"
+    }
+  ]
+}
