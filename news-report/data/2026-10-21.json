@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-21",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-21",
+  "fetched_at_cn": "2026-10-22T08:45:50+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-21",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261021《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:56",
+      "title": "20261021《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:52",
+      "title": "上海着力打造“国之重器”加速建设国际科创中心 硬X射线自由电子激光装置首次出光 2027年底建成投用"
+    },
+    {
+      "order": 3,
+      "duration": "01:37",
+      "title": "小洋山北作业区首次曝光“定妆照”西段一期年底建成投产"
+    },
+    {
+      "order": 4,
+      "duration": "01:45",
+      "title": "浦东机场 今年出入境客流已破3000万人次 入境外籍人员同比增21%"
+    },
+    {
+      "order": 5,
+      "duration": "01:51",
+      "title": "冷空气“到岗”申城秋凉十足"
+    },
+    {
+      "order": 6,
+      "duration": "00:52",
+      "title": "星巴克中国：明将实施消费入座 新财年加码顾客体验"
+    },
+    {
+      "order": 7,
+      "duration": "02:45",
+      "title": "淮海坊一期修缮完工 预计明年底整体风貌焕新"
+    },
+    {
+      "order": 8,
+      "duration": "02:18",
+      "title": "上海大歌剧院：巴黎歌剧院沉浸式VR体验项目亚洲首演"
+    },
+    {
+      "order": 9,
+      "duration": "00:51",
+      "title": "市政协常委会：积极应对深度老龄化 共建老年友好型社会"
+    },
+    {
+      "order": 10,
+      "duration": "02:33",
+      "title": "未成年人上网将有“硬约束”新规在沪展开立法意见征询"
+    },
+    {
+      "order": 11,
+      "duration": "02:11",
+      "title": "炮制网络舆情实施敲诈勒索 一犯罪团伙被捣毁"
+    },
+    {
+      "order": 12,
+      "duration": "01:54",
+      "title": "号称能买演唱会门票还有机会合影？倒票“黄牛”因诈骗入狱"
+    },
+    {
+      "order": 13,
+      "duration": "02:31",
+      "title": "上海环球美食汇 中华名小吃汇聚南京路 步行街首启露天现炸烟火"
+    },
+    {
+      "order": 14,
+      "duration": "00:45",
+      "title": "第一财经“一财全球”发布新十年战略 打造全球财经传播“中国坐标”"
+    },
+    {
+      "order": 15,
+      "duration": "02:33",
+      "title": "再现元代剧场体验 昆曲《汉宫秋》将开启百场沉浸式驻演"
+    },
+    {
+      "order": 16,
+      "duration": "01:56",
+      "title": "世界乒乓球健康嘉年华登陆上海"
+    },
+    {
+      "order": 17,
+      "duration": "02:09",
+      "title": "法国：将部署军队反恐力量应对下一轮示威活动"
+    }
+  ]
+}
