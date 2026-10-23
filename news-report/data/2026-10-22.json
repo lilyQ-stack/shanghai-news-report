@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-22",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-22",
+  "fetched_at_cn": "2026-10-23T08:45:35+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-22",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261022《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 19
+  },
+  "item_count": 19,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:53",
+      "title": "20261022《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:51",
+      "title": "纪念中国工农红军长征胜利90周年大会在京隆重举行 习近平发表重要讲话"
+    },
+    {
+      "order": 3,
+      "duration": "02:16",
+      "title": "中共上海市委财经工作委员会举行会议 研究海外综合服务体系建设工作"
+    },
+    {
+      "order": 4,
+      "duration": "02:04",
+      "title": "朱忠明在基层开展下访活动 聚焦信访问题听取意见建议 要求面对面倾听群众诉求 更好推动信访工作法治化 更加精准有效地为市民群众做好事办实事解难事"
+    },
+    {
+      "order": 5,
+      "duration": "04:39",
+      "title": "解读上海社零数据：大宗消费短期承压 服务消费加快起势"
+    },
+    {
+      "order": 6,
+      "duration": "02:15",
+      "title": "前三季度上海楼市回暖向好 郊区新房市场热度持续走高"
+    },
+    {
+      "order": 7,
+      "duration": "01:41",
+      "title": "前三季度上海楼市回暖向好 上海二手房量价同步回升"
+    },
+    {
+      "order": 8,
+      "duration": "00:55",
+      "title": "台风“蔷琵”明起给申城带来明显风雨影响"
+    },
+    {
+      "order": 9,
+      "duration": "02:00",
+      "title": "防御台风“蔷琵”全市预降河湖水位腾库3.2亿立方米 力争居民家中不进水"
+    },
+    {
+      "order": 10,
+      "duration": "02:29",
+      "title": "杨浦凤南一村旧住房更新项目 摇号选房启动！居民回家梦更进一步"
+    },
+    {
+      "order": 11,
+      "duration": "00:36",
+      "title": "2026世界顶尖科学家论坛 7位诺贝尔奖得主参会 首设空天信息平行论坛"
+    },
+    {
+      "order": 12,
+      "duration": "01:21",
+      "title": "西岸国际科技消费嘉年华启幕 打造全球AI消费首发窗口"
+    },
+    {
+      "order": 13,
+      "duration": "01:52",
+      "title": "星巴克“消费入座”实施首日《倡议》有温情并非“一刀切”"
+    },
+    {
+      "order": 14,
+      "duration": "01:22",
+      "title": "上海开展交通违法综合整治 重点路段重点时段设卡严查"
+    },
+    {
+      "order": 15,
+      "duration": "01:51",
+      "title": "开发外挂抢购潮玩牟利 网络黑色产业链被捣毁"
+    },
+    {
+      "order": 16,
+      "duration": "02:03",
+      "title": "郑云龙领衔 北京人艺《哈姆雷特》首秀申城"
+    },
+    {
+      "order": 17,
+      "duration": "00:43",
+      "title": "“潦草小狗”换秋装 上海菊花展周六开幕"
+    },
+    {
+      "order": 18,
+      "duration": "01:50",
+      "title": "美国：白宫发生争执 特朗普与媒体关系再趋紧张"
+    },
+    {
+      "order": 19,
+      "duration": "00:37",
+      "title": "沙特：达曼国际机场和东部油田遭袭 多人伤亡"
+    }
+  ]
+}
