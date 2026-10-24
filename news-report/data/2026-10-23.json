@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-23",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-23",
+  "fetched_at_cn": "2026-10-24T08:51:44+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-23",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261023《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:53",
+      "title": "20261023《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:18",
+      "title": "上海：前三季度进出口3.94万亿元 同比增17.9%"
+    },
+    {
+      "order": 3,
+      "duration": "02:04",
+      "title": "朱忠明在市防汛指挥部主持召开防御台风“蔷琵”专题会议 要求牢固树立底线思维、极限思维 做足充分准备 以对人民极端负责的态度确保台风防御各项工作落实落地"
+    },
+    {
+      "order": 4,
+      "duration": "02:22",
+      "title": "朱忠明前往上海市对口地区特色商品展销会现场察看 要求携手敞开合作交流之窗 让对口地区群众“钱袋子”鼓起来 让上海市民“菜篮子”“果盘子”更丰富"
+    },
+    {
+      "order": 5,
+      "duration": "02:40",
+      "title": "台风“蔷琵”影响上海 多区发布台风蓝色预警"
+    },
+    {
+      "order": 6,
+      "duration": "02:43",
+      "title": "应对台风“蔷琵”影响 全市进入临战防御状态"
+    },
+    {
+      "order": 7,
+      "duration": "01:47",
+      "title": "上海全市临战状态防御“蔷琵”"
+    },
+    {
+      "order": 8,
+      "duration": "02:24",
+      "title": "防御“蔷琵” 守护安全 上海地铁视情调整高架地面列车运行"
+    },
+    {
+      "order": 9,
+      "duration": "01:36",
+      "title": "小洋山岛：开展“拉网式”登船检查 完成相关人员避险转移"
+    },
+    {
+      "order": 10,
+      "duration": "02:33",
+      "title": "上海全市临战状态防御“蔷琵” 记者直击：台风逐步逼近 临港风大雨密"
+    },
+    {
+      "order": 11,
+      "duration": "01:19",
+      "title": "台风“蔷琵”对上海影响延长 以稳定性降水为主"
+    },
+    {
+      "order": 12,
+      "duration": "02:47",
+      "title": "上海大歌剧院 威尼斯凤凰歌剧院240人来沪 《托斯卡》亚洲首演"
+    },
+    {
+      "order": 13,
+      "duration": "01:46",
+      "title": "音乐会进商圈 艺术惠民融入城市日常"
+    },
+    {
+      "order": 14,
+      "duration": "00:37",
+      "title": "市政协围绕科教产教协同育人举行专题通报会"
+    },
+    {
+      "order": 15,
+      "duration": "01:56",
+      "title": "大数据筛出“无责大户” 上海警方抓获6名“职业碰瓷人”"
+    },
+    {
+      "order": 16,
+      "duration": "02:15",
+      "title": "蓝鲸“三所联动”已化解纠纷近600起 为企业讨回货款 为员工讨回薪水"
+    },
+    {
+      "order": 17,
+      "duration": "01:23",
+      "title": "重磅折叠屏新机首发 点燃年末数码消费热度"
+    }
+  ]
+}
