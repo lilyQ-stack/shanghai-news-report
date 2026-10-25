@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-24",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-24",
+  "fetched_at_cn": "2026-10-25T08:24:05+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-24",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261024《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "34:29",
+      "title": "20261024《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:53",
+      "title": "中国上海国际艺术节 名家名团好戏连台“上海独家”密集上演"
+    },
+    {
+      "order": 3,
+      "duration": "02:26",
+      "title": "上海市政府常务会议传达学习习近平总书记在全国卫生与健康大会上的重要讲话精神"
+    },
+    {
+      "order": 4,
+      "duration": "02:41",
+      "title": "受台风“蔷琵”外围影响 申城昨晚起迎明显风雨 全市启动防汛防台四级响应 昨夜今晨浦东地区雨量最大"
+    },
+    {
+      "order": 5,
+      "duration": "02:35",
+      "title": "黄浦江苏州河口明天中午最高潮位将达4.65米"
+    },
+    {
+      "order": 6,
+      "duration": "03:25",
+      "title": "新闻特写：台风夜，那些为城市守夜的人"
+    },
+    {
+      "order": 7,
+      "duration": "02:00",
+      "title": "风雨不减消费热情 商场年度大促有序开展"
+    },
+    {
+      "order": 8,
+      "duration": "01:57",
+      "title": "申城菜市场量足价稳 “菜篮子”未受风雨影响"
+    },
+    {
+      "order": 9,
+      "duration": "02:05",
+      "title": "流感疫苗接种正当时！上生：今年流感疫苗产量创新高"
+    },
+    {
+      "order": 10,
+      "duration": "02:14",
+      "title": "“海铃计划”取得关键进展 南海下一代中微子望远镜加速成形"
+    },
+    {
+      "order": 11,
+      "duration": "02:22",
+      "title": "青浦“响应式”公交试点一周“按需停”营运耗时缩短约15%"
+    },
+    {
+      "order": 12,
+      "duration": "01:04",
+      "title": "《上海市出租汽车条例（草案）》公开征求意见"
+    },
+    {
+      "order": 13,
+      "duration": "01:33",
+      "title": "奉贤 海归小镇吸引331名海归人才 多个亿元以上项目落地"
+    },
+    {
+      "order": 14,
+      "duration": "03:07",
+      "title": "观众中来：旧防水卷材上铺新防水卷材 屋顶施工存漏水隐患"
+    },
+    {
+      "order": 15,
+      "duration": "01:05",
+      "title": "一夜风雨房屋急修单增多 维修力量紧急响应解困扰"
+    },
+    {
+      "order": 16,
+      "duration": "00:33",
+      "title": "法国：伊夫林省发生枪击事件 造成1人死亡5人受伤"
+    }
+  ]
+}
