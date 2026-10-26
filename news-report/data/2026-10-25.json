@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-25",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-25",
+  "fetched_at_cn": "2026-10-26T08:30:23+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-25",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261025《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:25",
+      "title": "20261025《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:06",
+      "title": "申城解除台风蓝色预警 冷空气“无缝衔接”带来大风"
+    },
+    {
+      "order": 3,
+      "duration": "00:53",
+      "title": "上海：下周初多云为主 周中后期晴雨相间"
+    },
+    {
+      "order": 4,
+      "duration": "01:52",
+      "title": "台风“蔷琵”远离申城 港区码头恢复运行"
+    },
+    {
+      "order": 5,
+      "duration": "04:27",
+      "title": "提升空间整体功能！小陆家嘴区域更新规划发布"
+    },
+    {
+      "order": 6,
+      "duration": "00:40",
+      "title": "修订后的上证系列综合指数明起实施"
+    },
+    {
+      "order": 7,
+      "duration": "00:56",
+      "title": "花旗证券（中国）落户上海 外资加快布局中国资本市场"
+    },
+    {
+      "order": 8,
+      "duration": "02:04",
+      "title": "新增改装、共创、租赁等功能 上海首家汽车8S店开业"
+    },
+    {
+      "order": 9,
+      "duration": "02:24",
+      "title": "WTCC 2026西岸国际科技消费嘉年华 四天近百款新品亮相 打造全球AI消费首发窗口"
+    },
+    {
+      "order": 10,
+      "duration": "01:50",
+      "title": "“沪渎100”线路发布 串联沪派乡野风光"
+    },
+    {
+      "order": 11,
+      "duration": "00:50",
+      "title": "机车上演“水上漂” 张雪在家乡麻阳刷新吉尼斯纪录"
+    },
+    {
+      "order": 12,
+      "duration": "02:16",
+      "title": "绿茵草根登场！上海街超市级总决赛打响"
+    },
+    {
+      "order": 13,
+      "duration": "02:38",
+      "title": "观众中来：新闻追踪 旧梯更新验收完成 电梯企业抽调人员保证进度"
+    },
+    {
+      "order": 14,
+      "duration": "03:39",
+      "title": "记者观察：“上门助浴”刚需满满，为何叫好却难普及？"
+    },
+    {
+      "order": 15,
+      "duration": "02:01",
+      "title": "农村65岁及以上老人免费接种流感疫苗 社区医院接种量攀升"
+    },
+    {
+      "order": 16,
+      "duration": "02:17",
+      "title": "法国：数十万人参与新一轮示威游行 约千人被捕"
+    }
+  ]
+}
