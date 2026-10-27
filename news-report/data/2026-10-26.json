@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-26",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-26",
+  "fetched_at_cn": "2026-10-27T09:32:26+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-26",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261026《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 14
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:05",
+      "title": "20261026《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:21",
+      "title": "党的二十届五中全会开始举行"
+    },
+    {
+      "order": 3,
+      "duration": "02:15",
+      "title": "多款全球、亚洲首秀新品来了！第九届进博会首批展品进馆"
+    },
+    {
+      "order": 4,
+      "duration": "02:28",
+      "title": "海关“进博直通车”再开新列 三大商圈保税仓直抵“四叶草”"
+    },
+    {
+      "order": 5,
+      "duration": "02:57",
+      "title": "上海加速织密“一江一河一带”蓝绿网络 三林滨江城市森林全面建成 魔都“阿勒泰”免费开放"
+    },
+    {
+      "order": 6,
+      "duration": "02:39",
+      "title": "上证系列综合指数新规今起实施"
+    },
+    {
+      "order": 7,
+      "duration": "01:41",
+      "title": "奥迪中国四环标和字母标正式分家 上汽奥迪聚焦AUDI电动车 四环品牌全归一汽奥迪"
+    },
+    {
+      "order": 8,
+      "duration": "01:53",
+      "title": "提升执法覆盖面！警方持续强化交通违法综合治理"
+    },
+    {
+      "order": 9,
+      "duration": "02:00",
+      "title": "“乐业上海优+”秋季招聘会举行 千余家企业带来1.5万个岗位"
+    },
+    {
+      "order": 10,
+      "duration": "00:23",
+      "title": "《新闻夜线》推出“青年就业季，我们在行动”特别策划"
+    },
+    {
+      "order": 11,
+      "duration": "03:19",
+      "title": "观众中来：临港秋涟河：深夜涌出恶臭污水 疑似违规排污"
+    },
+    {
+      "order": 12,
+      "duration": "01:45",
+      "title": "诈骗170余万炒股亏空 一男子被依法刑拘"
+    },
+    {
+      "order": 13,
+      "duration": "00:51",
+      "title": "申城阳光限时回归 冷空气今夜抵达"
+    },
+    {
+      "order": 14,
+      "duration": "01:35",
+      "title": "品蟹季迎来本土主力 “崇明一号”清水蟹开捕"
+    }
+  ]
+}
