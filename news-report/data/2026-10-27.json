@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-27",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-27",
+  "fetched_at_cn": "2026-10-28T09:29:43+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-27",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261027《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:02",
+      "title": "20261027《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:07",
+      "title": "小陆家嘴更新规划定下新坐标 金茂大厦正焕新 观光厅升级方案完成设计 计划今年底至明年初施工"
+    },
+    {
+      "order": 3,
+      "duration": "01:50",
+      "title": "80万盆鲜花装扮 “四叶草”盛装迎进博"
+    },
+    {
+      "order": 4,
+      "duration": "02:15",
+      "title": "进博会首批展品开箱 布展搭建全面展开"
+    },
+    {
+      "order": 5,
+      "duration": "00:47",
+      "title": "广电总局发布新规 看电视将更方便 实现开机看全屏直播功能 不得播放开机广告"
+    },
+    {
+      "order": 6,
+      "duration": "02:53",
+      "title": "上海：不唯资历扶新锐 超5千万资金投向“硬核”创新领域"
+    },
+    {
+      "order": 7,
+      "duration": "02:17",
+      "title": "宝山花红村 文化艺术赋能乡村 金色稻田变身时装秀场"
+    },
+    {
+      "order": 8,
+      "duration": "02:46",
+      "title": "青浦城中村改造提速 凤溪项目跳出“拆旧建新”单一逻辑"
+    },
+    {
+      "order": 9,
+      "duration": "01:07",
+      "title": "北非航线+1 上海首条直飞阿尔及尔航线今日开通"
+    },
+    {
+      "order": 10,
+      "duration": "02:10",
+      "title": "汽车桩给电动自行车充电？小伙图快引发火灾"
+    },
+    {
+      "order": 11,
+      "duration": "03:21",
+      "title": "观众中来：集装箱工棚长期占据滨河绿地 已启动拆除并妥善安置工人"
+    },
+    {
+      "order": 12,
+      "duration": "01:36",
+      "title": "骑行者发生车祸动弹不得 民警俯身当15分钟“枕头”"
+    },
+    {
+      "order": 13,
+      "duration": "01:19",
+      "title": "祖孙四人扶梯滚落 轨交民警危急时刻伸援手"
+    },
+    {
+      "order": 14,
+      "duration": "00:42",
+      "title": "央视全面叫停涉及姆巴佩赛事和广告播出"
+    },
+    {
+      "order": 15,
+      "duration": "00:54",
+      "title": "外交部：对英国警方任意、过度执法行为表示强烈不满"
+    },
+    {
+      "order": 16,
+      "duration": "01:39",
+      "title": "以色列议会选举民众投票开始 内塔尼亚胡面临政治“大考”"
+    },
+    {
+      "order": 17,
+      "duration": "00:59",
+      "title": "巴西：弗拉维奥·博索纳罗所属政党承认卢拉胜选"
+    },
+    {
+      "order": 18,
+      "duration": "00:43",
+      "title": "美国：安特罗匹克公司提交IPO申请 或冲击史上最大科技IPO 测试市场对人工智能态度"
+    }
+  ]
+}
