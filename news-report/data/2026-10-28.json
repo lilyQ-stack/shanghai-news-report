@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-28",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-28",
+  "fetched_at_cn": "2026-10-29T09:53:26+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-28",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261028《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:32",
+      "title": "20261028《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:15",
+      "title": "上海打造离岸保险“桥头堡” 跨境再保险“外来外用”便利化试点启动"
+    },
+    {
+      "order": 3,
+      "duration": "01:54",
+      "title": "第九届进博会开幕在即 海运拼箱展品密集抵沪"
+    },
+    {
+      "order": 4,
+      "duration": "02:09",
+      "title": "依托永久举办地优势 青浦释放磁力扩大进博“朋友圈”"
+    },
+    {
+      "order": 5,
+      "duration": "03:30",
+      "title": "上海卫星互联网产业链加速“组网” 2030年在轨卫星超3000颗 核心产业规模突破800亿元"
+    },
+    {
+      "order": 6,
+      "duration": "02:23",
+      "title": "让上海更好走向世界 外籍友人当上浦东“城市推荐官”"
+    },
+    {
+      "order": 7,
+      "duration": "01:33",
+      "title": "“针牛”！一面英文锦旗，照见上海“家门口”的中医服务"
+    },
+    {
+      "order": 8,
+      "duration": "02:33",
+      "title": "普陀 闲置农宅“逆袭”成艺术街区 桃蔓里开业一年多实现“满租”"
+    },
+    {
+      "order": 9,
+      "duration": "00:41",
+      "title": "视听转型生态共建 上海超高清视听产业焕新发展"
+    },
+    {
+      "order": 10,
+      "duration": "01:49",
+      "title": "上海国际乐器展 民乐一厂“山河如愿”乐器亮相 演绎民族交响乐礼赞长征精神"
+    },
+    {
+      "order": 11,
+      "duration": "02:03",
+      "title": "上海域内外百万亩粮田迎丰收 今年首批3500吨新米集中上市"
+    },
+    {
+      "order": 12,
+      "duration": "02:25",
+      "title": "乘客未握扶手地铁起步急刹 摔伤责任如何分？"
+    },
+    {
+      "order": 13,
+      "duration": "02:09",
+      "title": "观众中来：两名男子冒充检修人员 流窜多个小区盗割固话铜缆"
+    },
+    {
+      "order": 14,
+      "duration": "01:43",
+      "title": "金秋菊飘香 上海菊花展掀起游园热潮"
+    },
+    {
+      "order": 15,
+      "duration": "00:45",
+      "title": "西班牙：高速铁路列车相撞 至少50人死亡 4名中国公民在涉事列车上 其中有人受轻伤"
+    },
+    {
+      "order": 16,
+      "duration": "00:57",
+      "title": "俄乌阿列什基停火生效 人道主义行动已启动"
+    },
+    {
+      "order": 17,
+      "duration": "00:35",
+      "title": "芬兰、挪威领导人与俄总统通话 就乌克兰问题调解交换意见"
+    },
+    {
+      "order": 18,
+      "duration": "00:31",
+      "title": "韩国：大熊猫“曙宝”10月30日起与公众见面"
+    }
+  ]
+}
