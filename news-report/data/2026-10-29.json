@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-29",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-29",
+  "fetched_at_cn": "2026-10-30T10:02:59+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-29",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "党的二十届五中全会在京举行 习近平发表重要讲话 审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "01:16",
+      "title": "党的二十届五中全会在京举行 习近平发表重要讲话 审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》"
+    },
+    {
+      "order": 2,
+      "duration": "01:44",
+      "title": "第九届进博会筹备进入最后冲刺阶段"
+    },
+    {
+      "order": 3,
+      "duration": "01:00",
+      "title": "第九届进博会交通管制通告发布"
+    },
+    {
+      "order": 4,
+      "duration": "01:14",
+      "title": "上海：9月新发放企业贷款平均利率降至2.55%历史低位"
+    },
+    {
+      "order": 5,
+      "duration": "00:39",
+      "title": "上海：前三季度科技、养老等行业贷款增速超10%"
+    },
+    {
+      "order": 6,
+      "duration": "00:42",
+      "title": "上海：率先启动试点 5万元起可设立养老服务信托"
+    },
+    {
+      "order": 7,
+      "duration": "02:01",
+      "title": "注意防护！上海今夜起将遭遇轻度空气污染"
+    },
+    {
+      "order": 8,
+      "duration": "02:15",
+      "title": "聂耳旧居焕新开放 北外滩点亮红色文化新地标"
+    },
+    {
+      "order": 9,
+      "duration": "02:26",
+      "title": "顶科论坛明起举行 外籍科学家提前探访上海“蛋白质工厂”"
+    },
+    {
+      "order": 10,
+      "duration": "02:02",
+      "title": "智元发布新模型新成果 Worken衡量机器人有效工时"
+    },
+    {
+      "order": 11,
+      "duration": "01:42",
+      "title": "推动中小企业高质量发展 上海出台《行动方案》"
+    },
+    {
+      "order": 12,
+      "duration": "00:49",
+      "title": "国家再次对成品油价格进行调控 国内汽柴油价格今晚24时起上调 每吨分别少涨95元、85元"
+    },
+    {
+      "order": 13,
+      "duration": "03:01",
+      "title": "上海：模块化建造+微创式改造 多元探索老房焕新"
+    },
+    {
+      "order": 14,
+      "duration": "02:42",
+      "title": "中山医院青浦新城院区试运行 院士坐镇惠及长三角患者"
+    },
+    {
+      "order": 15,
+      "duration": "01:00",
+      "title": "八旬老人身陷淤泥 救援人员成功施救"
+    },
+    {
+      "order": 16,
+      "duration": "02:03",
+      "title": "精品演出在闹市上演 为南京东路商圈带来艺术芬芳"
+    },
+    {
+      "order": 17,
+      "duration": "01:19",
+      "title": "一线江景邂逅萌宠咖啡 东方滨江大酒店打造休闲新场景"
+    },
+    {
+      "order": 18,
+      "duration": "01:47",
+      "title": "西班牙高铁列车相撞事故：死亡人数升至68人"
+    }
+  ]
+}
