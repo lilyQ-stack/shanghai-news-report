@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-30",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-30",
+  "fetched_at_cn": "2026-10-31T09:41:31+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-30",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261030《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 14
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:33",
+      "title": "20261030《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:57",
+      "title": "中共中央举行新闻发布会 介绍和解读党的二十届五中全会精神"
+    },
+    {
+      "order": 3,
+      "duration": "04:11",
+      "title": "陈吉宁在检查进博会服务保障办展办会相关工作时要求 对照“细致、精致、极致” 不断优化提升城市服务保障水平 全面展示高水平对外开放的上海实践 确保进博会越办越好"
+    },
+    {
+      "order": 4,
+      "duration": "01:04",
+      "title": "朱忠明会见芬兰埃斯波市市长"
+    },
+    {
+      "order": 5,
+      "duration": "02:33",
+      "title": "东方枢纽上海东站整体成形 明年7月具备开通运营条件"
+    },
+    {
+      "order": 6,
+      "duration": "02:33",
+      "title": "共话科学突破 上海进入“顶科时间”"
+    },
+    {
+      "order": 7,
+      "duration": "00:56",
+      "title": "第九届进博会：81组文物艺术品开始布展 总货值4.74亿元"
+    },
+    {
+      "order": 8,
+      "duration": "02:30",
+      "title": "从“产品出海”到“规则出海” 上海以“标准”助力企业拿下全球订单"
+    },
+    {
+      "order": 9,
+      "duration": "02:05",
+      "title": "空中岗哨逐渐铺开 警方严查非机动车违法"
+    },
+    {
+      "order": 10,
+      "duration": "02:00",
+      "title": "反诈劝阻成功能领激励金！警方携手222个街镇守护“钱袋子”"
+    },
+    {
+      "order": 11,
+      "duration": "03:27",
+      "title": "观众中来：记者观察 老人捐房善举遇处置难题 如何让善款不“缩水”？"
+    },
+    {
+      "order": 12,
+      "duration": "01:55",
+      "title": "小区流浪狗扰民 居民呼吁解决方案"
+    },
+    {
+      "order": 13,
+      "duration": "01:43",
+      "title": "复旦儿科：儿童抽动障碍规范化门诊全国示范中心揭牌"
+    },
+    {
+      "order": 14,
+      "duration": "02:11",
+      "title": "光明乳业发力特医赛道 国内首款苯丙酮尿症特医食品获批上市"
+    }
+  ]
+}
