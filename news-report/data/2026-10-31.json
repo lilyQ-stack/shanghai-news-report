@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-31",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-31",
+  "fetched_at_cn": "2026-11-01T09:18:44+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-10-31",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261031《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 12
+  },
+  "item_count": 12,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:02",
+      "title": "20261031《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:45",
+      "title": "陈吉宁主持市委常委会扩大会议 传达学习党的二十届五中全会精神和习近平总书记重要讲话精神"
+    },
+    {
+      "order": 3,
+      "duration": "02:57",
+      "title": "中共上海市委常委会举行会议 传达学习习近平总书记在内蒙古自治区乌兰察布市考察时的重要讲话精神"
+    },
+    {
+      "order": 4,
+      "duration": "03:06",
+      "title": "2026世界顶尖科学家论坛开幕式暨世界顶尖科学家奖颁奖典礼在临港中心举行"
+    },
+    {
+      "order": 5,
+      "duration": "02:06",
+      "title": "朱忠明调研上海理工大学时指出 坚持“重服务、强贡献” 一体推进教育科技人才发展 为教育强市建设作出更大贡献"
+    },
+    {
+      "order": 6,
+      "duration": "03:16",
+      "title": "记者观察 全球“最强大脑”在帮上海做什么？"
+    },
+    {
+      "order": 7,
+      "duration": "02:17",
+      "title": "2026世界顶尖科学家奖颁发 邵峰成首位中国籍得主"
+    },
+    {
+      "order": 8,
+      "duration": "02:50",
+      "title": "全新版本亚洲首秀 歌剧《阿依达》亮相上海大歌剧院"
+    },
+    {
+      "order": 9,
+      "duration": "02:51",
+      "title": "记者观察 数据产权证，激活“加工创造”的价值"
+    },
+    {
+      "order": 10,
+      "duration": "02:08",
+      "title": "韩国街：坚持发展首店经济 焕新升级人气火爆"
+    },
+    {
+      "order": 11,
+      "duration": "01:49",
+      "title": "宝山：搭建精准对接平台 2000多个岗位助力青年就业"
+    },
+    {
+      "order": 12,
+      "duration": "02:26",
+      "title": "光头顾客充值烫发项目？文峰“糊涂账”牵出行业乱象"
+    }
+  ]
+}
