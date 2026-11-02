@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-01",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-01",
+  "fetched_at_cn": "2026-11-02T09:38:06+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-01",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261101《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 14
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:49",
+      "title": "20261101《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:17",
+      "title": "第二艘国产大型邮轮 “爱达·花城号”即将在沪交付"
+    },
+    {
+      "order": 3,
+      "duration": "02:25",
+      "title": "上海：十月二手房网签超2.45万套 创近六年同期新高"
+    },
+    {
+      "order": 4,
+      "duration": "02:52",
+      "title": "上海：“城中村”改造提速扩容 首个“好房子”保障房结构封顶"
+    },
+    {
+      "order": 5,
+      "duration": "03:14",
+      "title": "记者观察 2026顶科论坛：谁在把论文翻译成生产力？"
+    },
+    {
+      "order": 6,
+      "duration": "03:03",
+      "title": "上海自然博物馆 70周年展启幕 合川马门溪龙迎来新头骨"
+    },
+    {
+      "order": 7,
+      "duration": "02:31",
+      "title": "上海将进入冬春流感高发时节 新就业群体工会会员 可免费打流感疫苗"
+    },
+    {
+      "order": 8,
+      "duration": "02:29",
+      "title": "行业国标落地 让陪诊服务既用得上又靠得住"
+    },
+    {
+      "order": 9,
+      "duration": "01:00",
+      "title": "上海：下周冷空气频繁 最低气温将创下半年新低"
+    },
+    {
+      "order": 10,
+      "duration": "02:47",
+      "title": "金山亭林：要“流量”更要“留量” 新“夜”态点亮乡村旅游"
+    },
+    {
+      "order": 11,
+      "duration": "03:07",
+      "title": "观众中来：兼职到店打卡刷好评 记者起底“预制好评”套路"
+    },
+    {
+      "order": 12,
+      "duration": "02:11",
+      "title": "海派插花大赛：非遗走向大众 60岁年龄跨度共赴美的赛场"
+    },
+    {
+      "order": 13,
+      "duration": "00:50",
+      "title": "2026上海市慈善健康慢跑活力开跑"
+    },
+    {
+      "order": 14,
+      "duration": "02:14",
+      "title": "法国：数十万人参与新一轮示威 超500人被逮捕"
+    }
+  ]
+}
