@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-02",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-02",
+  "fetched_at_cn": "2026-11-03T11:32:09+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-02",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261102《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:52",
+      "title": "20261102《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:12",
+      "title": "2026世界城市日城市可持续发展全球大会全体大会在沪举行 陈吉宁：让住有宜居成为城市生活温暖底色 让城市更新成为高质量发展强劲引擎 让精细化成为城市治理现代化显著标识"
+    },
+    {
+      "order": 3,
+      "duration": "02:57",
+      "title": "上海环城生态公园带：30年坚守，书写城市发展教科书"
+    },
+    {
+      "order": 4,
+      "duration": "01:00",
+      "title": "朱忠明会见联合国人居署负责人 期待持续深化合作 谱写“城市，让生活更美好”新篇章"
+    },
+    {
+      "order": 5,
+      "duration": "01:03",
+      "title": "央行：将开展证券、基金、保险公司互换便利操作"
+    },
+    {
+      "order": 6,
+      "duration": "01:03",
+      "title": "冷空气影响频繁 明天傍晚起雨水明显"
+    },
+    {
+      "order": 7,
+      "duration": "02:56",
+      "title": "首次摆上“双十一”货架 Token走进大众消费"
+    },
+    {
+      "order": 8,
+      "duration": "00:47",
+      "title": "上海持续打造外资研发高地 达能全球级创新枢纽启用"
+    },
+    {
+      "order": 9,
+      "duration": "00:56",
+      "title": "提前“解放双手”上海两大机场间中转更便捷 国航等7家航司转虹桥航班：今日起可在浦东机场值机托运"
+    },
+    {
+      "order": 10,
+      "duration": "00:55",
+      "title": "11月4日、5日 上海部分道路临时交通管制"
+    },
+    {
+      "order": 11,
+      "duration": "01:27",
+      "title": "首次纳入服务包！警方“三所联动”企业版护航展商备展"
+    },
+    {
+      "order": 12,
+      "duration": "02:21",
+      "title": "注册逾400万个账号薅积分转卖算力 男子获三年缓刑"
+    },
+    {
+      "order": 13,
+      "duration": "03:32",
+      "title": "观众中来：记者调查：蝙蝠为何反复“光顾”居民家中？"
+    },
+    {
+      "order": 14,
+      "duration": "01:07",
+      "title": "游客看日出被困近海 救援力量空地联动两小时救回"
+    },
+    {
+      "order": 15,
+      "duration": "02:02",
+      "title": "试用期未转正怀恨报复 前员工篡改直播数据致企业损失百万"
+    },
+    {
+      "order": 16,
+      "duration": "00:41",
+      "title": "呈现超500门精品好课 第二届上海老年学习课程展开幕"
+    },
+    {
+      "order": 17,
+      "duration": "01:40",
+      "title": "美国中期选举临近 两党“选票官司”开打"
+    },
+    {
+      "order": 18,
+      "duration": "01:34",
+      "title": "美国：一架飞机在佛州居民区坠毁 机上9人全部死亡"
+    }
+  ]
+}
