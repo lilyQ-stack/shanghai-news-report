@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-03",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-03",
+  "fetched_at_cn": "2026-11-04T10:29:21+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-03",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261103《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:22",
+      "title": "20261103《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:17",
+      "title": "丁薛祥将出席第九届进博会开幕式及相关活动"
+    },
+    {
+      "order": 3,
+      "duration": "02:32",
+      "title": "上海市政府党组会议举行 传达学习贯彻党的二十届五中全会精神和习近平总书记在全会上的重要讲话精神"
+    },
+    {
+      "order": 4,
+      "duration": "00:51",
+      "title": "市人大常委会党组扩大会议传达学习贯彻党的二十届五中全会精神"
+    },
+    {
+      "order": 5,
+      "duration": "00:42",
+      "title": "市政协党组扩大会议传达学习贯彻党的二十届五中全会精神"
+    },
+    {
+      "order": 6,
+      "duration": "01:58",
+      "title": "市政府常务会议：加快上海新型能源体系建设"
+    },
+    {
+      "order": 7,
+      "duration": "00:50",
+      "title": "央行：上调金融机构外汇存款准备金率至6%"
+    },
+    {
+      "order": 8,
+      "duration": "03:38",
+      "title": "新政落地后首场“测试” 第十一批次土拍本月底举行 两幅地块“小而精” 保留预售通道未锁定现房销售"
+    },
+    {
+      "order": 9,
+      "duration": "04:08",
+      "title": "进博会技术装备展区 汇聚全球领先硬核科技 寻找应用新机遇"
+    },
+    {
+      "order": 10,
+      "duration": "01:42",
+      "title": "漕宝路快速路：西线盾构隧道贯通 主线预计明年建成"
+    },
+    {
+      "order": 11,
+      "duration": "02:38",
+      "title": "上海：工程建设招投标智慧监管监督平台 迭代升级成效明显"
+    },
+    {
+      "order": 12,
+      "duration": "00:38",
+      "title": "中国东航原党组书记、董事长刘绍勇一审被判14年"
+    },
+    {
+      "order": 13,
+      "duration": "02:06",
+      "title": "市质子重离子医院 惠及患者超万例 5年总生存率达70%"
+    },
+    {
+      "order": 14,
+      "duration": "02:35",
+      "title": "人形机器人24小时便利店“打工” 这班上得怎么样？"
+    },
+    {
+      "order": 15,
+      "duration": "01:40",
+      "title": "上海：创建大宗商品可信贸易新生态 600家企业上线“信贸通”"
+    },
+    {
+      "order": 16,
+      "duration": "02:23",
+      "title": "艺术节：京剧《战洪州》周五献演 全国戏曲精品奔赴申城舞台"
+    },
+    {
+      "order": 17,
+      "duration": "01:58",
+      "title": "美国中期选举今日举行 国会或将迎来“洗牌时刻”"
+    }
+  ]
+}
