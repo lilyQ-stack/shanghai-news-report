@@ -8,7 +8,9 @@ on:
         required: false
         type: string
   schedule:
-    - cron: '30 22 * * *'
+    - cron: '30 22 * * *'  # 06:30 Asia/Shanghai
+    - cron: '15 0 * * *'   # 08:15 Asia/Shanghai, retry
+    - cron: '45 1 * * *'   # 09:45 Asia/Shanghai, retry
   push:
     paths:
       - 'news-report/fetch_kankanews.py'
@@ -50,3 +52,27 @@ jobs:
           git add news-report/data
           git commit -m "Update Kankanews News Report data"
           git push
+
+      - name: Validate collected program data
+        env:
+          INPUT_DATE: ${{ github.event.inputs.date }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+          date = os.environ.get("INPUT_DATE") or (datetime.now(timezone(timedelta(hours=8))).date() - timedelta(days=1)).isoformat()
+          path = Path("news-report/data") / f"{date}.json"
+          if not path.exists():
+              raise SystemExit(f"Missing program data: {path}")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          items = data.get("items", [])
+          valid = (data.get("date") == date and data.get("program") == "新闻报道"
+                   and data.get("program_id") == "7LMwVLeyzn3" and data.get("status") == "ok"
+                   and len(items) >= 2 and items[0].get("order") == 1
+                   and date.replace("-", "") in items[0].get("title", "")
+                   and all(item.get("order") == i + 1 for i, item in enumerate(items)))
+          if not valid:
+              raise SystemExit(f"Incomplete or invalid program data: {path}")
+          print(f"Validated {date}: {len(items)} items")
+          PY
