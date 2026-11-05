@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-04",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-04",
+  "fetched_at_cn": "2026-11-05T10:25:12+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-04",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261104《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:47",
+      "title": "原创 20261104《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:56",
+      "title": "原创 第九届进博会明日开幕 “四叶草”准备就绪 八方客共赴盛会"
+    },
+    {
+      "order": 3,
+      "duration": "02:03",
+      "title": "原创 第九届进博会 上海馆：定制专属海派精彩 打造消费新范式"
+    },
+    {
+      "order": 4,
+      "duration": "01:01",
+      "title": "原创 朱忠明会见奥地利总理 欢迎来沪出席第九届进博会"
+    },
+    {
+      "order": 5,
+      "duration": "01:00",
+      "title": "原创 朱忠明会见加蓬总统 希望加强经贸和产业投资合作"
+    },
+    {
+      "order": 6,
+      "duration": "01:42",
+      "title": "原创 国台办：欢迎更多台商、台企充分利用好进博会平台"
+    },
+    {
+      "order": 7,
+      "duration": "00:38",
+      "title": "原创 413亿美元！中国石化再次签下进博会采购合作大单"
+    },
+    {
+      "order": 8,
+      "duration": "01:46",
+      "title": "原创 地毯式巡查护航进博会“四叶草”完成开幕前最后一次巡馆"
+    },
+    {
+      "order": 9,
+      "duration": "01:56",
+      "title": "进博会交通管制启动 今年管控范围和时间同步“做减法”"
+    },
+    {
+      "order": 10,
+      "duration": "01:12",
+      "title": "科创50指数大涨近10% A股成交重返2万亿"
+    },
+    {
+      "order": 11,
+      "duration": "02:08",
+      "title": "原创 创时代经典 攀文艺高峰 2026中国广播电视精品创作大会开幕"
+    },
+    {
+      "order": 12,
+      "duration": "04:34",
+      "title": "原创 记者观察：一家餐饮店，怎么把古镇的客流引进村？"
+    },
+    {
+      "order": 13,
+      "duration": "02:25",
+      "title": "原创 观众中来：从春天等到秋天 漏水维修卡在哪儿？"
+    },
+    {
+      "order": 14,
+      "duration": "00:45",
+      "title": "原创 上海海事大学临港校区拓展工程竣工"
+    },
+    {
+      "order": 15,
+      "duration": "02:08",
+      "title": "原创 美国中期选举掀起“蓝色浪潮” 民主党将重夺两院控制权"
+    },
+    {
+      "order": 16,
+      "duration": "00:46",
+      "title": "伊朗战事拖累共和党选情 特朗普：不后悔发动战事"
+    },
+    {
+      "order": 17,
+      "duration": "01:14",
+      "title": "欧洲多架客机收到炸弹威胁 欧盟密切关注"
+    },
+    {
+      "order": 18,
+      "duration": "00:43",
+      "title": "足坛悲剧：西乙球员比赛中遭对手冲撞不治身亡"
+    }
+  ]
+}
