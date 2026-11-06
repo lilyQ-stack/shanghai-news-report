@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-05",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-05",
+  "fetched_at_cn": "2026-11-06T09:28:23+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-05",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261105《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 14
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:51",
+      "title": "原创 20261105《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "07:13",
+      "title": "原创 上海市学习贯彻党的二十届五中全会精神中央宣讲团报告会举行 陈吉宁作宣讲报告 要求以更高标准更实举措推进全面从严治党 确保全会各项战略部署在上海落地落实"
+    },
+    {
+      "order": 3,
+      "duration": "05:43",
+      "title": "原创 学习宣传贯彻党的二十届五中全会精神 陈吉宁与基层一线党员代表交流互动 畅谈心得体会"
+    },
+    {
+      "order": 4,
+      "duration": "01:03",
+      "title": "原创 陈吉宁会见联合国开发计划署署长"
+    },
+    {
+      "order": 5,
+      "duration": "01:55",
+      "title": "原创 支持上海国际贸易中心提质升级工作推进会在沪举行"
+    },
+    {
+      "order": 6,
+      "duration": "01:59",
+      "title": "原创 东方之约惠全球 第九届进博会开幕"
+    },
+    {
+      "order": 7,
+      "duration": "02:29",
+      "title": "原创 进博会：从大国重器到民生好物 中国馆里看未来"
+    },
+    {
+      "order": 8,
+      "duration": "01:57",
+      "title": "原创 第九届进博会 全球好物齐聚“黑科技”展品亮相"
+    },
+    {
+      "order": 9,
+      "duration": "01:45",
+      "title": "原创 “会前派对”聊合作 新老朋友共赴进博之约"
+    },
+    {
+      "order": 10,
+      "duration": "00:35",
+      "title": "2027年放假安排公布 调休天数最少"
+    },
+    {
+      "order": 11,
+      "duration": "02:19",
+      "title": "原创 首个580+高校来了！上科大首次加入上海春考"
+    },
+    {
+      "order": 12,
+      "duration": "02:17",
+      "title": "原创 精准对接学生“真刚需”沪上高校“静音舱”出圈"
+    },
+    {
+      "order": 13,
+      "duration": "00:37",
+      "title": "原创 上海轨交21号线一期及东延伸段轨道全线贯通"
+    },
+    {
+      "order": 14,
+      "duration": "01:00",
+      "title": "美国中期选举：特朗普称伊朗战事是共和党失利要因"
+    }
+  ]
+}
