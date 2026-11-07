@@ -20,6 +20,11 @@ on:
 permissions:
   contents: write
 
+# Prevent simultaneous scheduled/manual runs from racing to push main.
+concurrency:
+  group: kankanews-news-report-collector
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -51,7 +56,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news-report/data
           git commit -m "Update Kankanews News Report data"
-          git push
+          # Another job may have pushed since checkout; rebase and retry safely.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push raced with another run (attempt $attempt); retrying."
+            sleep 3
+          done
+          echo "Could not push collected news data" >&2
+          exit 1
 
 
       - name: Validate collected program data
