@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-06",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-06",
+  "fetched_at_cn": "2026-11-07T15:01:53+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-06",
+  "status": "incomplete",
+  "validation_notes": [
+    "full_episode_item_missing"
+  ],
+  "page_meta": {
+    "html_title": "第二艘国产大邮轮“爱达·花城号”在沪交付_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "03:46",
+      "title": "原创 第二艘国产大邮轮“爱达·花城号”在沪交付"
+    },
+    {
+      "order": 2,
+      "duration": "02:11",
+      "title": "原创 “爱达·花城号”正式交付 从“造得出”到“造得好”国产邮轮迈入批量建造新阶段"
+    },
+    {
+      "order": 3,
+      "duration": "03:29",
+      "title": "原创 第九届虹桥国际经济论坛虹桥国际开放枢纽建设分论坛暨2026虹桥HUB大会举办 建设长三角企业“走出去”服务第一站"
+    },
+    {
+      "order": 4,
+      "duration": "01:15",
+      "title": "原创 朱忠明会见香港特别行政区行政长官李家超 推动沪港合作发展再上新台阶"
+    },
+    {
+      "order": 5,
+      "duration": "00:59",
+      "title": "原创 朱忠明会见新西兰奥克兰市市长"
+    },
+    {
+      "order": 6,
+      "duration": "01:22",
+      "title": "原创 加拿大“太阳马戏”亮相进博会 宣布明年来沪巡演"
+    },
+    {
+      "order": 7,
+      "duration": "03:47",
+      "title": "原创 第九届进博会 连续八年参展 开云集团多款全球首发新品亮相"
+    },
+    {
+      "order": 8,
+      "duration": "01:59",
+      "title": "原创 银发展品增多 成套医养结合样板间亮相进博"
+    },
+    {
+      "order": 9,
+      "duration": "02:27",
+      "title": "原创 进博会药品展区迎来“新朋友”跨国药企多款重磅创新药亮相"
+    },
+    {
+      "order": 10,
+      "duration": "02:11",
+      "title": "原创 第九届进博会迎来首个观展高峰 警方优化措施提升入馆效率"
+    },
+    {
+      "order": 11,
+      "duration": "02:06",
+      "title": "原创 内环高架：吴中路-金沙江路段本月11日起启动年轻化改造"
+    },
+    {
+      "order": 12,
+      "duration": "01:39",
+      "title": "原创 上海移动以数智通信护航进博会"
+    },
+    {
+      "order": 13,
+      "duration": "00:36",
+      "title": "朱家角古镇旅游区拟确定为国家5A级景区"
+    },
+    {
+      "order": 14,
+      "duration": "01:01",
+      "title": "原创 美国：中期选举结果引发AI监管担忧 纽约股市暴跌"
+    },
+    {
+      "order": 15,
+      "duration": "00:52",
+      "title": "欧洲多国至少25架航班再遭炸弹威胁"
+    }
+  ]
+}
