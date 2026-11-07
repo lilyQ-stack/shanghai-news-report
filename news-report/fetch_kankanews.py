@@ -111,6 +111,11 @@ def fetch(date: str, out_dir: Path) -> Path:
             if old.get("status") == "ok" and old.get("date") == date and status != "ok":
                 print(f"Keeping previously validated data: {out_path}", file=sys.stderr)
                 return out_path
+            if (old.get("date") == date and old.get("status") == status
+                    and old.get("items") == items
+                    and old.get("validation_notes") == reasons):
+                print(f"No new program data: {out_path}", file=sys.stderr)
+                return out_path
         except (OSError, ValueError):
             pass
     out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
