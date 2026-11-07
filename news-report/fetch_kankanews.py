@@ -81,6 +81,10 @@ def fetch(date: str, out_dir: Path) -> Path:
         status = "incomplete"; reasons.append("no_numbered_program_items_extracted")
     elif items[0]["order"] != 1:
         status = "incomplete"; reasons.append("program_item_1_missing")
+    elif date.replace("-", "") not in items[0]["title"] or "新闻报道" not in items[0]["title"]:
+        status = "incomplete"; reasons.append("full_episode_item_missing")
+    elif any(item["order"] != i + 1 for i, item in enumerate(items)):
+        status = "incomplete"; reasons.append("program_item_numbering_gap")
 
     data = {
         "date": date,
@@ -101,6 +105,14 @@ def fetch(date: str, out_dir: Path) -> Path:
 
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{date}.json"
+    if out_path.exists():
+        try:
+            old = json.loads(out_path.read_text(encoding="utf-8"))
+            if old.get("status") == "ok" and old.get("date") == date and status != "ok":
+                print(f"Keeping previously validated data: {out_path}", file=sys.stderr)
+                return out_path
+        except (OSError, ValueError):
+            pass
     out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     if status != "ok":
         diag_dir = out_dir / "diagnostics"
