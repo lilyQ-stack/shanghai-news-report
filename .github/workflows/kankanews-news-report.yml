@@ -8,6 +8,7 @@ on:
         required: false
         type: string
   schedule:
+    - cron: '30 13 * * *'  # 21:30 Asia/Shanghai, same-day episode
     - cron: '30 22 * * *'  # 06:30 Asia/Shanghai
     - cron: '15 0 * * *'   # 08:15 Asia/Shanghai, retry
     - cron: '45 1 * * *'   # 09:45 Asia/Shanghai, retry
@@ -37,15 +38,25 @@ jobs:
           python-version: '3.12'
       - name: Install dependencies
         run: pip install -r news-report/requirements.txt
-      - name: Collect program page
+      - name: Resolve program date
+        id: target
         env:
           INPUT_DATE: ${{ github.event.inputs.date }}
+          SCHEDULE: ${{ github.event.schedule }}
         run: |
           if [ -n "$INPUT_DATE" ]; then
-            python news-report/fetch_kankanews.py --date "$INPUT_DATE"
+            TARGET_DATE="$INPUT_DATE"
+          elif [ "$SCHEDULE" = "30 13 * * *" ] && [ "$(TZ=Asia/Shanghai date +%H)" -ge 19 ]; then
+            TARGET_DATE="$(TZ=Asia/Shanghai date +%F)"
           else
-            python news-report/fetch_kankanews.py
+            TARGET_DATE="$(TZ=Asia/Shanghai date -d yesterday +%F)"
           fi
+          echo "Program date: $TARGET_DATE"
+          echo "date=$TARGET_DATE" >> "$GITHUB_OUTPUT"
+      - name: Collect program page
+        env:
+          TARGET_DATE: ${{ steps.target.outputs.date }}
+        run: python news-report/fetch_kankanews.py --date "$TARGET_DATE"
       - name: Commit collected data and diagnostics
         run: |
           if [ -z "$(git status --porcelain -- news-report/data)" ]; then
@@ -72,13 +83,13 @@ jobs:
 
       - name: Validate collected program data
         env:
-          INPUT_DATE: ${{ github.event.inputs.date }}
+          TARGET_DATE: ${{ steps.target.outputs.date }}
         run: |
           python - <<'PY'
           import json, os
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
-          date = os.environ.get("INPUT_DATE") or (datetime.now(timezone(timedelta(hours=8))).date() - timedelta(days=1)).isoformat()
+          date = os.environ["TARGET_DATE"]
           path = Path("news-report/data") / f"{date}.json"
           if not path.exists():
               raise SystemExit(f"Missing program data: {path}")
