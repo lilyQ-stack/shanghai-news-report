@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-08",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-08",
+  "fetched_at_cn": "2026-11-09T02:26:17+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-08",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261108《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "34:05",
+      "title": "原创 20261108《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:07",
+      "title": "原创 上海：国产大型邮轮“魔都”“花城”同框相聚"
+    },
+    {
+      "order": 3,
+      "duration": "03:05",
+      "title": "原创 上海创智学院 招聘交流“反向设摊” 科研市场“双向奔赴”"
+    },
+    {
+      "order": 4,
+      "duration": "03:00",
+      "title": "原创 上海大歌剧院 柏林国家歌剧院《玫瑰骑士》亚洲首演 超300人阵容创来华演出规模之最"
+    },
+    {
+      "order": 5,
+      "duration": "01:02",
+      "title": "原创 上海：冷空气今夜到 明天有冬日体感"
+    },
+    {
+      "order": 6,
+      "duration": "01:10",
+      "title": "原创 第九届进博会 上海交易团大型零售采购商联盟27个项目集中签约"
+    },
+    {
+      "order": 7,
+      "duration": "02:47",
+      "title": "原创 第九届进博会 创新药械集中首发 AI赋能医疗科技加速落地"
+    },
+    {
+      "order": 8,
+      "duration": "01:33",
+      "title": "原创 “百万级展品”首秀进博会！顶奢腕表首店将落户张园"
+    },
+    {
+      "order": 9,
+      "duration": "01:36",
+      "title": "原创 进博会迎首个社会观众日 逾13万人进“四叶草”观展"
+    },
+    {
+      "order": 10,
+      "duration": "00:51",
+      "title": "原创 第九届进博会 连续九年采访进博一线 “全勤生”记者节分享心声"
+    },
+    {
+      "order": 11,
+      "duration": "01:23",
+      "title": "原创 精准服务银发人群 东浩兰生国贸集团与东方购物签约"
+    },
+    {
+      "order": 12,
+      "duration": "03:12",
+      "title": "原创 91岁红房子西菜馆焕新 打造海派西餐消费新场景"
+    },
+    {
+      "order": 13,
+      "duration": "03:03",
+      "title": "原创 苏州河华政段上新 逾130岁韬奋楼焕新开放"
+    },
+    {
+      "order": 14,
+      "duration": "03:53",
+      "title": "原创 观众中来：国补换梯卡在“一扇门” 高龄居民40多天无法下楼"
+    },
+    {
+      "order": 15,
+      "duration": "01:41",
+      "title": "沙特首都金融区遭袭 目击者称阿美石油大楼受损 胡塞武装：袭击沙特石油设施及其支持的军事目标"
+    },
+    {
+      "order": 16,
+      "duration": "00:49",
+      "title": "以色列总统授权正直党领导人埃森科特组建新政府"
+    }
+  ]
+}
