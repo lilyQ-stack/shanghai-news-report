@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-09",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-09",
+  "fetched_at_cn": "2026-11-10T07:06:05+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-09",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261109《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 18
+  },
+  "item_count": 18,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:04",
+      "title": "原创 20261109《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:10",
+      "title": "原创 第九届进博会 记者观察：中国消费力量改写全球产品逻辑"
+    },
+    {
+      "order": 3,
+      "duration": "02:11",
+      "title": "原创 第九届进博会 新老车型同台亮相 汽车文化成新风向"
+    },
+    {
+      "order": 4,
+      "duration": "02:37",
+      "title": "原创 第九届进博会 降糖新药纳入基药目录 老人、医生同逛展台“取经”"
+    },
+    {
+      "order": 5,
+      "duration": "00:42",
+      "title": "原创 第九届进博会 落地近80项成果 上海会议活动圆满落幕"
+    },
+    {
+      "order": 6,
+      "duration": "00:40",
+      "title": "国务院关税税则委员会 2个月内继续暂停实施24%对美加征关税税率"
+    },
+    {
+      "order": 7,
+      "duration": "01:48",
+      "title": "外交部回应涉英伟达相关问题：所谓“中国间谍”论调纯属污蔑抹黑"
+    },
+    {
+      "order": 8,
+      "duration": "01:11",
+      "title": "原创 冷空气带来大风降温 申城今日气温“跳水”"
+    },
+    {
+      "order": 9,
+      "duration": "01:07",
+      "title": "国家统计局 10月CPI同比上涨0.7% 汽油价格同比涨幅22.4%"
+    },
+    {
+      "order": 10,
+      "duration": "00:52",
+      "title": "原创 长三角一体化示范区 “全球环境与可持续发展大会”永久会址落户 打造绿色科创国际窗口"
+    },
+    {
+      "order": 11,
+      "duration": "02:16",
+      "title": "原创 第九届进博会 离境退税服务升级 境外客商“即买即退”"
+    },
+    {
+      "order": 12,
+      "duration": "02:01",
+      "title": "原创 第九届进博会 近3100场直播带货可追溯 AI巡检系统让风险早发现"
+    },
+    {
+      "order": 13,
+      "duration": "01:22",
+      "title": "原创 全国消防日 静安：灭火无人机首次亮相高层消防演练"
+    },
+    {
+      "order": 14,
+      "duration": "04:05",
+      "title": "原创 观众中来：记者调查：绿地管理用房宁愿空置也不能经营吗？"
+    },
+    {
+      "order": 15,
+      "duration": "03:15",
+      "title": "原创 华东模范中学：试点高中混龄教育 缓解压力互助成长"
+    },
+    {
+      "order": 16,
+      "duration": "01:28",
+      "title": "原创 佳士得秋拍预展：毕加索《男子坐像》时隔13年再度在沪拍卖"
+    },
+    {
+      "order": 17,
+      "duration": "01:36",
+      "title": "埃及发生列车脱轨事故 已造成7死112伤"
+    },
+    {
+      "order": 18,
+      "duration": "00:56",
+      "title": "豪掷34亿美元 “安特罗匹克”下场抢购发电设备 AI竞争进入下半场？美国头部AI公司布局发电设备生产"
+    }
+  ]
+}
