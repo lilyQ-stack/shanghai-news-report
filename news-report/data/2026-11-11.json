@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-11",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-11",
+  "fetched_at_cn": "2026-11-12T11:10:15+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-11",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261111《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:51",
+      "title": "原创 20261111《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "04:39",
+      "title": "原创 21年来首次调整！上海道路停车收费新政11月18日起实施"
+    },
+    {
+      "order": 3,
+      "duration": "01:38",
+      "title": "原创 学习贯彻党的二十届五中全会精神 上海举行理论研讨会暨宣讲工作动员会"
+    },
+    {
+      "order": 4,
+      "duration": "02:09",
+      "title": "原创 隆昌路越江隧道 盾构始发准备中 覆罩法减小施工影响"
+    },
+    {
+      "order": 5,
+      "duration": "03:01",
+      "title": "原创 代配药新规严格实名登记 同日多科室配同款药将被系统拦截"
+    },
+    {
+      "order": 6,
+      "duration": "02:10",
+      "title": "原创 ART021艺博会启幕 上海国际艺术品交易周“浓度拉满”"
+    },
+    {
+      "order": 7,
+      "duration": "01:37",
+      "title": "原创 上海全球资产管理论坛启幕 多份重磅行业报告发布"
+    },
+    {
+      "order": 8,
+      "duration": "01:36",
+      "title": "原创 全国多地开启秋假 首波亲子客流已抵达上海！"
+    },
+    {
+      "order": 9,
+      "duration": "02:11",
+      "title": "原创 3.7℃！今晨气温再探新低 申城开启最美赏叶季"
+    },
+    {
+      "order": 10,
+      "duration": "02:53",
+      "title": "原创 沪上首例儿童自体肾移植手术顺利实施"
+    },
+    {
+      "order": 11,
+      "duration": "01:24",
+      "title": "原创 第12届上海国际喜剧节开幕 东方谐趣站上戏台C位"
+    },
+    {
+      "order": 12,
+      "duration": "02:20",
+      "title": "原创 “红头文件”退费？22万元“野海参”？ 民警：警惕陷阱！"
+    },
+    {
+      "order": 13,
+      "duration": "02:04",
+      "title": "原创 日本：一中国游客在富士山失联已超60小时"
+    },
+    {
+      "order": 14,
+      "duration": "00:35",
+      "title": "韩国：一公交车连撞30多辆车 我使馆证实无中国公民受伤"
+    },
+    {
+      "order": 15,
+      "duration": "02:26",
+      "title": "原创 赫格塞思挺过一关 美众议院阻止推进对其弹劾进程"
+    },
+    {
+      "order": 16,
+      "duration": "00:38",
+      "title": "美国10月核心通胀压力持续 市场对美联储加息预期增强"
+    }
+  ]
+}
