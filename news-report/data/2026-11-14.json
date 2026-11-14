@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-14",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-14",
+  "fetched_at_cn": "2026-11-15T02:48:40+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-14",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261114《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:14",
+      "title": "原创 20261114《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:18",
+      "title": "原创 中共上海市委常委会举行会议 传达学习习近平总书记对进一步做好黄河保护治理工作作出的重要指示精神"
+    },
+    {
+      "order": 3,
+      "duration": "02:21",
+      "title": "原创 2026中国资本市场学术年会在沪开幕"
+    },
+    {
+      "order": 4,
+      "duration": "02:52",
+      "title": "原创 2026版医保商保“双目录”公布 纳入多款上海药企创新药"
+    },
+    {
+      "order": 5,
+      "duration": "01:08",
+      "title": "原创 国产电动大飞机来了！我国10吨级电动商用飞机完成首次有人驾驶智能飞行"
+    },
+    {
+      "order": 6,
+      "duration": "02:31",
+      "title": "原创 第六届“海聚英才”全球创新创业大赛总决赛在沪举行 围绕六大专业赛道 246个优秀项目巅峰对决"
+    },
+    {
+      "order": 7,
+      "duration": "02:36",
+      "title": "原创 读者冒雨赴约 2026上海国际童书展热力拉满"
+    },
+    {
+      "order": 8,
+      "duration": "02:39",
+      "title": "原创 宝山 品咖骑行收稻谷 罗泾一路有秋味"
+    },
+    {
+      "order": 9,
+      "duration": "02:11",
+      "title": "原创 猪肉价格创10年新低 一些部位价格低于蔬菜"
+    },
+    {
+      "order": 10,
+      "duration": "02:19",
+      "title": "原创 金山：即将告别“小梁薄板” 公益改造补齐配套"
+    },
+    {
+      "order": 11,
+      "duration": "01:55",
+      "title": "原创 中国大陆唯一一站！现代舞大师阿库·汉姆“告别之作”亮相申城"
+    },
+    {
+      "order": 12,
+      "duration": "01:56",
+      "title": "原创 歌剧《梁祝》有望明年首演 上海歌剧院迎来建院70周年"
+    },
+    {
+      "order": 13,
+      "duration": "00:36",
+      "title": "原创 上海：产教共育 打造青少年人工智能前沿课程及评价体系"
+    },
+    {
+      "order": 14,
+      "duration": "01:34",
+      "title": "原创 雨中接力奔跑！华东46所高校赛队在沪竞逐“高百”"
+    },
+    {
+      "order": 15,
+      "duration": "02:34",
+      "title": "原创 谎称理财向亲人借钱 七旬老太按摩4个月充值20余万元"
+    },
+    {
+      "order": 16,
+      "duration": "01:05",
+      "title": "原创 美国：通信中断触发全国“停飞令” 约1.5万架次航班延误或取消"
+    }
+  ]
+}
