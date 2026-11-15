@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-15",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-15",
+  "fetched_at_cn": "2026-11-16T03:26:09+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-15",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261115《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:25",
+      "title": "原创 20261115《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:56",
+      "title": "原创 上海国际艺术节今晚收官 国际名团高密度演出 破圈融合带动消费逾45亿元"
+    },
+    {
+      "order": 3,
+      "duration": "03:12",
+      "title": "原创 复兴岛变身“实训考场” 硅基岛民上岗打工"
+    },
+    {
+      "order": 4,
+      "duration": "03:16",
+      "title": "原创 抖音大楼落户“老船厂” 杨浦滨江15.5公里岸线再添“新引擎”"
+    },
+    {
+      "order": 5,
+      "duration": "00:56",
+      "title": "原创 上海：下周三起阳光管够 气温起伏明显"
+    },
+    {
+      "order": 6,
+      "duration": "01:49",
+      "title": "时隔五年再捧杯 英雄联盟全球总决赛中国战队夺冠"
+    },
+    {
+      "order": 7,
+      "duration": "01:14",
+      "title": "上海战队BLG夺得英雄联盟全球总决赛冠军 B站宣布送会员 上海电竞协会发贺信"
+    },
+    {
+      "order": 8,
+      "duration": "01:57",
+      "title": "原创 车市进入年末销售冲刺 多重优惠政策促消费者出手"
+    },
+    {
+      "order": 9,
+      "duration": "02:03",
+      "title": "原创 嘉定51路：上海首条甲醇公交线路明日开启试运营"
+    },
+    {
+      "order": 10,
+      "duration": "02:19",
+      "title": "原创 20年“三角地”变形记：从脏乱差，到22个停车位"
+    },
+    {
+      "order": 11,
+      "duration": "01:35",
+      "title": "原创 早高峰抛共享单车“封路” 醉酒男子被行政拘留"
+    },
+    {
+      "order": 12,
+      "duration": "01:43",
+      "title": "原创 长滩半马燃情开跑 8000名跑者领略全新视角"
+    },
+    {
+      "order": 13,
+      "duration": "00:41",
+      "title": "原创 沪浙乡村半马热力开跑 勾勒长三角活力画卷"
+    },
+    {
+      "order": 14,
+      "duration": "02:05",
+      "title": "美国：“停飞令”余波未平 14日仍有上万架次航班延误或取消"
+    },
+    {
+      "order": 15,
+      "duration": "01:32",
+      "title": "SpaceX：“星舰”飞船首次被发射塔机械臂“捕获”回收"
+    },
+    {
+      "order": 16,
+      "duration": "00:30",
+      "title": "法国：超10万人参加周末抗议示威活动"
+    },
+    {
+      "order": 17,
+      "duration": "00:48",
+      "title": "驻日美军上尉涉嫌酒驾被日本警方逮捕"
+    }
+  ]
+}
