@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-16",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-16",
+  "fetched_at_cn": "2026-11-17T06:58:45+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-16",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261116《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 17
+  },
+  "item_count": 17,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:54",
+      "title": "原创 20261116《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:26",
+      "title": "习近平将同俄罗斯总统、美国总统举行中俄美元首会晤"
+    },
+    {
+      "order": 3,
+      "duration": "02:11",
+      "title": "原创 市领导参加上海市区人大代表换届选举投票"
+    },
+    {
+      "order": 4,
+      "duration": "02:09",
+      "title": "原创 选民积极参与区、乡镇人大代表换届选举 践行全过程人民民主"
+    },
+    {
+      "order": 5,
+      "duration": "03:02",
+      "title": "原创 10月70城房价出炉 各线城市房价同比降幅收窄"
+    },
+    {
+      "order": 6,
+      "duration": "01:29",
+      "title": "原创 最低1°C！强冷空气将带来“断崖式”降温"
+    },
+    {
+      "order": 7,
+      "duration": "02:46",
+      "title": "原创 “00后”妈妈支起“三元饭摊”医院旁小树林藏着善意"
+    },
+    {
+      "order": 8,
+      "duration": "02:32",
+      "title": "原创 美国芭蕾舞剧院《天鹅湖》飞上“中国扇”上海国际艺术节收官"
+    },
+    {
+      "order": 9,
+      "duration": "01:54",
+      "title": "原创 全国多地开启秋假 东方明珠迎大客流"
+    },
+    {
+      "order": 10,
+      "duration": "02:12",
+      "title": "原创 和平饭店“51万天价小票”谣言案更多详情披露 团伙内部分享“流量密码”“抢抓”双十一窗口造谣"
+    },
+    {
+      "order": 11,
+      "duration": "01:56",
+      "title": "原创 徐汇：“驻站指导员”进驻配送站点 骑手违法与事故“双下降”"
+    },
+    {
+      "order": 12,
+      "duration": "01:26",
+      "title": "原创 补能10分钟续航700公里 上海首条甲醇公交线路投入运营"
+    },
+    {
+      "order": 13,
+      "duration": "00:39",
+      "title": "原创 上海地铁标识精细化升级 字更大指引更清晰"
+    },
+    {
+      "order": 14,
+      "duration": "02:23",
+      "title": "原创 上博东馆“璀璨”上新 大都会192件稀世珠宝展出"
+    },
+    {
+      "order": 15,
+      "duration": "02:20",
+      "title": "原创 上图东馆 古籍里的“插画集”重磅登场 大量展品首次公开"
+    },
+    {
+      "order": 16,
+      "duration": "00:57",
+      "title": "原创 中国壁球公开赛明起开打 世界名将云集申城"
+    },
+    {
+      "order": 17,
+      "duration": "01:56",
+      "title": "西班牙：议会选举临近工人社会党发布竞选纲领"
+    }
+  ]
+}
