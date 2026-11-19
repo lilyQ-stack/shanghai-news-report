@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-19",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-19",
+  "fetched_at_cn": "2026-11-20T05:43:08+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-19",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261119《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:54",
+      "title": "原创 20261119《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:21",
+      "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话"
+    },
+    {
+      "order": 3,
+      "duration": "00:55",
+      "title": "习近平主持中俄美元首会晤"
+    },
+    {
+      "order": 4,
+      "duration": "01:16",
+      "title": "习近平会见美国总统特朗普"
+    },
+    {
+      "order": 5,
+      "duration": "02:03",
+      "title": "原创 前10个月上海外贸进出口同比增长18.7% 新质动能持续发力"
+    },
+    {
+      "order": 6,
+      "duration": "01:44",
+      "title": "原创 上海今晨气温入秋以来新低 金山暴跌11度"
+    },
+    {
+      "order": 7,
+      "duration": "02:10",
+      "title": "原创 喉咙疼竟是心梗！降温天警惕非典型症状 记者蹲点医院 记录隐蔽心梗救治全过程"
+    },
+    {
+      "order": 8,
+      "duration": "03:10",
+      "title": "原创 打造文商旅体展融合超级现场 第七届长三角文博会开幕 整合17家院团25座剧场等资源 上海演艺集团首次亮相"
+    },
+    {
+      "order": 9,
+      "duration": "02:16",
+      "title": "原创 未来浦西第一高楼即将突破300米 AI+新材料助力超高层建筑“长高”"
+    },
+    {
+      "order": 10,
+      "duration": "02:25",
+      "title": "原创 上海地铁、机场联络线“充电友好度”如何？记者实测来了"
+    },
+    {
+      "order": 11,
+      "duration": "03:13",
+      "title": "原创 同一个派出所，一天内接住两个“想逃”的初三少年"
+    },
+    {
+      "order": 12,
+      "duration": "01:53",
+      "title": "原创 浦江实验室园区开展消防演练 近2000人参加"
+    },
+    {
+      "order": 13,
+      "duration": "01:47",
+      "title": "原创 既要烟火气也要好秩序！四川北路外摆位指引升级"
+    },
+    {
+      "order": 14,
+      "duration": "01:55",
+      "title": "原创 让如厕更方便！上海推进社会厕所开放共享试点"
+    },
+    {
+      "order": 15,
+      "duration": "02:04",
+      "title": "历经近50年“旅行者一号”抵达1光日里程碑"
+    },
+    {
+      "order": 16,
+      "duration": "01:00",
+      "title": "法国警察在巴黎游行示威 要求改善条件并提高津贴"
+    }
+  ]
+}
