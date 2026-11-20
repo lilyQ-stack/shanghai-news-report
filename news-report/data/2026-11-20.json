@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-20",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-20",
+  "fetched_at_cn": "2026-11-21T05:25:48+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-20",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261120《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:22",
+      "title": "原创 20261120《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:31",
+      "title": "原创 陈吉宁调研中远海运集团 指出要共同补齐高端航运服务短板 推动航运数智化绿色化转型 纵深推进上海国际航运中心建设"
+    },
+    {
+      "order": 3,
+      "duration": "02:05",
+      "title": "原创 上海市-新加坡全面合作理事会第七次会议召开 签署一系列合作备忘录 谱写沪新全方位合作新篇章"
+    },
+    {
+      "order": 4,
+      "duration": "02:23",
+      "title": "原创 沪新合作：金融科创联通两地 人文交流走深走实"
+    },
+    {
+      "order": 5,
+      "duration": "02:22",
+      "title": "原创 China Haul海外出圈 带火中国入境游消费 今年前十月 上海海关验核退税商品金额同比增长超4成"
+    },
+    {
+      "order": 6,
+      "duration": "02:28",
+      "title": "原创 松江泗泾 大型商场直通地铁 开业首日客流超预期"
+    },
+    {
+      "order": 7,
+      "duration": "01:05",
+      "title": "美联储加息预期持续升温 国际金价跌破3600美元关口"
+    },
+    {
+      "order": 8,
+      "duration": "01:57",
+      "title": "原创 显卡降价“挤泡沫”相对年初仍居高位"
+    },
+    {
+      "order": 9,
+      "duration": "00:44",
+      "title": "原创 上海：促进科技成果转化 新条例下月起施行"
+    },
+    {
+      "order": 10,
+      "duration": "03:13",
+      "title": "原创 专场招聘会精准引才 400余家单位带来1.2万个岗位 对口支援地区“组团”设摊 部分岗位薪资对标上海"
+    },
+    {
+      "order": 11,
+      "duration": "00:45",
+      "title": "原创 市政协召开“纪检监察工作情况”专题通报会"
+    },
+    {
+      "order": 12,
+      "duration": "01:47",
+      "title": "原创 无人机破解软件碰不得！男子网上售卖收取29.9元遭行拘"
+    },
+    {
+      "order": 13,
+      "duration": "02:00",
+      "title": "原创 青浦 邂逅薛间村 感受“小清迈”乡野慢生活"
+    },
+    {
+      "order": 14,
+      "duration": "01:52",
+      "title": "原创 秋日种球花市进公园 市民可买可种静待新春花开"
+    },
+    {
+      "order": 15,
+      "duration": "03:02",
+      "title": "原创 拒绝履行生效判决 不让孩子上学的母亲被拘留"
+    },
+    {
+      "order": 16,
+      "duration": "01:24",
+      "title": "原创 美国：安特罗匹克登陆纳斯达克 融资规模创纪录"
+    }
+  ]
+}
