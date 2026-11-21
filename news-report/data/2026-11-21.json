@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-21",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-21",
+  "fetched_at_cn": "2026-11-22T04:12:19+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-21",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261121《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "32:21",
+      "title": "原创 20261121《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "03:43",
+      "title": "原创 申城实体商业年终促销大幕开启 南京路：消费热度一早释放 商场会员日福利多多"
+    },
+    {
+      "order": 3,
+      "duration": "02:46",
+      "title": "原创 申城汽车消费进入年末冲刺 年度以旧换新补贴倒计时 市民抓紧出手4S店全员赶工"
+    },
+    {
+      "order": 4,
+      "duration": "01:49",
+      "title": "原创 国际金价持续下跌 申城金店消费升温"
+    },
+    {
+      "order": 5,
+      "duration": "02:44",
+      "title": "原创 记者观察 淡季不淡，上海住房租金为何连涨八个月？"
+    },
+    {
+      "order": 6,
+      "duration": "02:12",
+      "title": "原创 上海卫生人才秋季招聘会举行 社区医院口腔科成“香饽饽”"
+    },
+    {
+      "order": 7,
+      "duration": "02:40",
+      "title": "原创 长三角文博会火热举行 各区展示文旅融合新业态"
+    },
+    {
+      "order": 8,
+      "duration": "01:45",
+      "title": "原创 陌生岛屿起降训练 东部战区实战化练兵"
+    },
+    {
+      "order": 9,
+      "duration": "01:29",
+      "title": "原创 马路“拉拉链”是旧闻！上海路政养护设施又进化了"
+    },
+    {
+      "order": 10,
+      "duration": "02:52",
+      "title": "原创 买了车位却开不出发票 产证“难产”如何破局？"
+    },
+    {
+      "order": 11,
+      "duration": "01:35",
+      "title": "原创 HADO世冠杯再度登陆北外滩 虚拟体育嘉年华人气旺"
+    },
+    {
+      "order": 12,
+      "duration": "02:00",
+      "title": "原创 单笔销售高达16万元！卡牌经济跑出强劲消费潜力"
+    },
+    {
+      "order": 13,
+      "duration": "03:01",
+      "title": "原创 崇明长兴岛 一颗橘子玩出花样“橘里橘气”过秋天"
+    },
+    {
+      "order": 14,
+      "duration": "00:30",
+      "title": "一架飞往巴新的客机引擎着火 备降菲律宾"
+    },
+    {
+      "order": 15,
+      "duration": "00:34",
+      "title": "美国：受科技股抛售拖累 纽约三大股指20日大幅下跌 安特罗匹克一度“跌回”发行价"
+    }
+  ]
+}
