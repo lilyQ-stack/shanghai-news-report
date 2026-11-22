@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-22",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-22",
+  "fetched_at_cn": "2026-11-23T04:26:25+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-22",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261122《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:09",
+      "title": "原创 20261122《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:47",
+      "title": "原创 第七届长三角文博会 11.6万人次观展 预计促成意向合作1.55亿元"
+    },
+    {
+      "order": 3,
+      "duration": "03:11",
+      "title": "原创 记者观察 线上“野师傅”线下“拉缸秀” “上海小马哥”做对了什么？"
+    },
+    {
+      "order": 4,
+      "duration": "00:44",
+      "title": "原创 “小雪”今至 初寒伊始"
+    },
+    {
+      "order": 5,
+      "duration": "01:57",
+      "title": "原创 小雪“虹藏不见” 申城秋色“预热”中"
+    },
+    {
+      "order": 6,
+      "duration": "01:07",
+      "title": "原创 上海：下周晴到多云天气为主 后半周升温明显"
+    },
+    {
+      "order": 7,
+      "duration": "02:36",
+      "title": "原创 提着果篮进社区 交警“碎碎念”劝导老人安全出行"
+    },
+    {
+      "order": 8,
+      "duration": "02:02",
+      "title": "原创 警方侦破特大虚假期货平台网络诈骗案 不法分子盯上300名老股民 诈骗金额高达1.2亿元"
+    },
+    {
+      "order": 9,
+      "duration": "02:17",
+      "title": "原创 “钱凯-上海”航线越跑越忙 前10月进出口货值达55亿元"
+    },
+    {
+      "order": 10,
+      "duration": "01:58",
+      "title": "原创 Top Run10公里精英赛：5000人组团开跑 机器狗当配速员"
+    },
+    {
+      "order": 11,
+      "duration": "02:53",
+      "title": "原创 观众中来：记者调查 40多年老房靠钢架“续命”何时能修缮或翻建？"
+    },
+    {
+      "order": 12,
+      "duration": "02:30",
+      "title": "原创 记者调查 困人！急坠！小区交付一年电梯为何故障频发？"
+    },
+    {
+      "order": 13,
+      "duration": "00:39",
+      "title": "最新消息 100%降至80%！融资保证金比例11月30日起下调"
+    },
+    {
+      "order": 14,
+      "duration": "01:27",
+      "title": "原创 离除夕尚有两月半 多家老字号年夜饭基本订满"
+    },
+    {
+      "order": 15,
+      "duration": "02:42",
+      "title": "167年未解难题被AI解决？安特罗匹克数学家宣布：用CIaude证明黎曼猜想"
+    },
+    {
+      "order": 16,
+      "duration": "01:33",
+      "title": "韩国：教育部长官因应对高考作弊引发混乱提出辞职"
+    }
+  ]
+}
