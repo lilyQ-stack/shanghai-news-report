@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-23",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-23",
+  "fetched_at_cn": "2026-11-24T09:08:21+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-23",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261123《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 15
+  },
+  "item_count": 15,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:20",
+      "title": "原创 20261123《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "05:15",
+      "title": "原创 上海轨交票价优化方案正式公布 12月1日起实施 3元起步价不变兼顾长短途 并非简单“二选一”"
+    },
+    {
+      "order": 3,
+      "duration": "01:28",
+      "title": "原创 冷空气半夜抵沪 48小时最低气温速降9-11℃"
+    },
+    {
+      "order": 4,
+      "duration": "02:02",
+      "title": "原创 稳市组合拳提振市场情绪 A股午后“绝地反击”"
+    },
+    {
+      "order": 5,
+      "duration": "02:29",
+      "title": "AI交易退潮引发市场暴跌 韩国紧急护盘仍难逃熔断"
+    },
+    {
+      "order": 6,
+      "duration": "02:32",
+      "title": "原创 新修订的《上海市促进科技成果转化条例》发布 首次设立“成果供给”专章 “全部赋权”改革引领全国"
+    },
+    {
+      "order": 7,
+      "duration": "00:52",
+      "title": "《“一老一小”服务体系建设实施方案》发布 养老机构护理型床位占比：2030年将达到73%"
+    },
+    {
+      "order": 8,
+      "duration": "02:10",
+      "title": "原创 一棵雪松的离去 何以让公园温柔落笔？"
+    },
+    {
+      "order": 9,
+      "duration": "02:29",
+      "title": "原创 膏方熬制进入高峰 岳阳医院百口紫铜锅同步开炉"
+    },
+    {
+      "order": 10,
+      "duration": "01:48",
+      "title": "原创 牛羊肉迎来销售旺季 批发量同比增长超两成"
+    },
+    {
+      "order": 11,
+      "duration": "01:50",
+      "title": "原创 上海之巅观光厅：今年前十月 接待入境游客同比增68%"
+    },
+    {
+      "order": 12,
+      "duration": "01:53",
+      "title": "原创 阿姨受骗假装遛狗欲送现金 两区民警联手守住养老钱"
+    },
+    {
+      "order": 13,
+      "duration": "02:34",
+      "title": "联合国气候变化大会闭幕 未能达成全面成果文件"
+    },
+    {
+      "order": 14,
+      "duration": "02:26",
+      "title": "泽连斯基证实在利比亚沿海击沉俄护卫舰"
+    },
+    {
+      "order": 15,
+      "duration": "01:00",
+      "title": "伊朗称击落多架美军无人机 巴林称伊朗袭击造成两人受伤 敌对行动或迅速升级 美使馆提醒在巴林公民提高警惕"
+    }
+  ]
+}
