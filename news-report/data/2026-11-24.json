@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-24",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-24",
+  "fetched_at_cn": "2026-11-25T07:12:15+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-24",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261124《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:17",
+      "title": "原创 20261124《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "01:55",
+      "title": "神舟二十四号飞船瞄准明天8时18分发射"
+    },
+    {
+      "order": 3,
+      "duration": "01:24",
+      "title": "中国航天员将首次执行一年期在轨驻留试验任务"
+    },
+    {
+      "order": 4,
+      "duration": "02:00",
+      "title": "神舟二十四号任务航天员与中外媒体见面"
+    },
+    {
+      "order": 5,
+      "duration": "02:27",
+      "title": "水千条山万座 来到中国读懂中国 穆罕默德·齐尚·阿里：要把中巴友谊送入太空"
+    },
+    {
+      "order": 6,
+      "duration": "02:06",
+      "title": "原创 市政府常务会议：加力推动做好全年各项工作收官冲刺"
+    },
+    {
+      "order": 7,
+      "duration": "02:19",
+      "title": "原创 朱忠明就深化医保基金管理突出问题整治工作开展调研 要求管好用好人民群众的“看病钱”“救命钱” 抓紧抓好群众身边不正之风和腐败突出问题整治"
+    },
+    {
+      "order": 8,
+      "duration": "01:35",
+      "title": "原创 冷空气“快闪”：明晨郊区破冰点 周五重返20℃+"
+    },
+    {
+      "order": 9,
+      "duration": "00:53",
+      "title": "原创 为冬季可靠供电作准备 全球最大地下变电站集中检修"
+    },
+    {
+      "order": 10,
+      "duration": "02:43",
+      "title": "原创 明年进医保，每月打一针！偏头痛预防性靶向药正式临床供应"
+    },
+    {
+      "order": 11,
+      "duration": "03:09",
+      "title": "原创 上海：守护群众钱袋子 建成222个街镇（园区）反诈防范服务平台"
+    },
+    {
+      "order": 12,
+      "duration": "00:45",
+      "title": "原创 2026年“E法同行”全国网络法治主题宣传收官总结暨上海站活动启动"
+    },
+    {
+      "order": 13,
+      "duration": "01:22",
+      "title": "原创 谎称遗失天价手表赠房酬谢归还者 一男子制造网络谣言被刑拘"
+    },
+    {
+      "order": 14,
+      "duration": "02:41",
+      "title": "原创 疗愈设局诈骗1400余万元 两名嫌犯被依法刑拘"
+    },
+    {
+      "order": 15,
+      "duration": "02:08",
+      "title": "原创 华为新一代折叠机在沪发布 群雄逐鹿下产业破局待何时？"
+    },
+    {
+      "order": 16,
+      "duration": "03:14",
+      "title": "原创 去职11天“闪电回归” 黄仁勋重掌英伟达"
+    }
+  ]
+}
