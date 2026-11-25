@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-25",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-25",
+  "fetched_at_cn": "2026-11-26T06:40:38+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-25",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261125《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:07",
+      "title": "原创 20261125《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "00:11",
+      "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查"
+    },
+    {
+      "order": 3,
+      "duration": "04:06",
+      "title": "中共上海市委常委会举行扩大会议 坚决拥护党中央对陈吉宁涉嫌严重违纪违法进行审查调查的决定"
+    },
+    {
+      "order": 4,
+      "duration": "04:21",
+      "title": "上海市政府党组召开会议 坚决拥护党中央对陈吉宁涉嫌严重违纪违法进行审查调查的决定"
+    },
+    {
+      "order": 5,
+      "duration": "02:29",
+      "title": "原创 神舟二十四号载人飞船发射取得圆满成功"
+    },
+    {
+      "order": 6,
+      "duration": "01:55",
+      "title": "原创 上海：今年第12批次土拍12月下旬举行 仅青浦徐泾一宗地块"
+    },
+    {
+      "order": 7,
+      "duration": "02:26",
+      "title": "原创 青草沙-陈行库管连通工程2028年投用 上海三大原水系统将互通"
+    },
+    {
+      "order": 8,
+      "duration": "02:18",
+      "title": "原创 每周最高1亿Token 沪上高校免费开放算力"
+    },
+    {
+      "order": 9,
+      "duration": "01:28",
+      "title": "原创 从石库门到科技前沿 海外嘉宾参访上海"
+    },
+    {
+      "order": 10,
+      "duration": "01:35",
+      "title": "原创 今晨郊区跌破冰点 明起回暖后天21℃"
+    },
+    {
+      "order": 11,
+      "duration": "01:52",
+      "title": "原创 御寒“黑科技”上阵 地产果蔬“扛住”冷空气"
+    },
+    {
+      "order": 12,
+      "duration": "02:31",
+      "title": "原创 男子独吞征收款藏匿300万元黄金 法官千里追赃“开箱”起获"
+    },
+    {
+      "order": 13,
+      "duration": "01:52",
+      "title": "原创 十院科学减重大赛：224人三个月平均减去“1.5桶油”"
+    },
+    {
+      "order": 14,
+      "duration": "02:06",
+      "title": "原创 广东美术馆 百余件海派典藏齐聚 “海上观潮”大展续写沪粤文化情缘"
+    },
+    {
+      "order": 15,
+      "duration": "00:36",
+      "title": "原创 短道速滑世巡赛上海站周五开赛 云集15位奥运冠军"
+    },
+    {
+      "order": 16,
+      "duration": "00:40",
+      "title": "严查作弊 韩国初高中考试将参照高考多项措施"
+    }
+  ]
+}
