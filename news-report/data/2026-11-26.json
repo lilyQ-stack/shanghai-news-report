@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-26",
+  "program": "新闻报道",
+  "channel": "上海电视台新闻综合频道",
+  "scheduled_time": "18:30",
+  "program_id": "7LMwVLeyzn3",
+  "url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-26",
+  "fetched_at_cn": "2026-11-27T06:30:11+08:00",
+  "http_status": 200,
+  "final_url": "https://www.kankanews.com/program/7LMwVLeyzn3/2026-11-26",
+  "status": "ok",
+  "validation_notes": [],
+  "page_meta": {
+    "html_title": "20261126《新闻报道》_新闻报道_看看新闻网",
+    "marker_found": true,
+    "numbered_item_count": 16
+  },
+  "item_count": 16,
+  "items": [
+    {
+      "order": 1,
+      "duration": "33:07",
+      "title": "原创 20261126《新闻报道》"
+    },
+    {
+      "order": 2,
+      "duration": "02:47",
+      "title": "中共上海市委常委会举行会议 传达学习习近平总书记在广东省中山市考察时的重要讲话精神"
+    },
+    {
+      "order": 3,
+      "duration": "02:27",
+      "title": "原创 聚焦新兴领域制度创新 上海知识产权国际论坛开幕"
+    },
+    {
+      "order": 4,
+      "duration": "02:12",
+      "title": "6G要来了！三部委印发《新一代通信网建设实施方案》"
+    },
+    {
+      "order": 5,
+      "duration": "00:32",
+      "title": "新建沪杭高铁初设获批 建成后杭州西到上海东最快约40分钟"
+    },
+    {
+      "order": 6,
+      "duration": "03:07",
+      "title": "原创 上海地铁计次票今起发售 12月1日起正式启用"
+    },
+    {
+      "order": 7,
+      "duration": "02:10",
+      "title": "原创 近期呼吸道感染明显增多 专家提醒警惕流感并发症"
+    },
+    {
+      "order": 8,
+      "duration": "00:44",
+      "title": "免费流感疫苗走进校园 专家提醒重点人群尽早接种"
+    },
+    {
+      "order": 9,
+      "duration": "01:23",
+      "title": "原创 上海脑机接口接连闯关 渐冻症患者靠意念“说话” 我国首例无线侵入式汉语脑机接口临床试验成果亮相"
+    },
+    {
+      "order": 10,
+      "duration": "02:24",
+      "title": "原创 上海脑机接口接连闯关 既能“重新说话”也能“重新走路” “脑脊接口”已完成5例手术 新产品将借力外高桥出海"
+    },
+    {
+      "order": 11,
+      "duration": "02:09",
+      "title": "原创 浦东机场T3航站楼商业规划公布 SkyView观景平台将打造特色地标"
+    },
+    {
+      "order": 12,
+      "duration": "02:04",
+      "title": "原创 新天地亮灯迎客 上海跨年迎新消费季启动"
+    },
+    {
+      "order": 13,
+      "duration": "02:52",
+      "title": "原创 居民接送孩子为何要逆行？青浦监管委：已着手优化上学路"
+    },
+    {
+      "order": 14,
+      "duration": "02:13",
+      "title": "警方捣毁非法医美速成班 三人被批捕 学员打针后发烧化脓 负责人直言“不会死人”"
+    },
+    {
+      "order": 15,
+      "duration": "02:31",
+      "title": "原创 上海：“三所联动”拓展至营商环境 已建成4700余个调解站"
+    },
+    {
+      "order": 16,
+      "duration": "00:44",
+      "title": "美国：大潮巨浪冲击加州海岸 多地遭海水浸没"
+    }
+  ]
+}
